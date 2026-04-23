@@ -129,10 +129,3 @@ UFC-Fight-Capstone/
     ├── chart-weight-class-finish-type.png
     └── chart-top-submissions.png
 ```
-
-## Notes
-
-- Keep `EER.png` in `schema/`.
-- Keep `UML.jpg` in `schema/`.
-- Keep charts and MongoDB screenshots in `images/`.
-- Make sure the filenames in the README exactly match the files in your folders.
