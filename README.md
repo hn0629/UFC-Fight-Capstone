@@ -18,8 +18,8 @@ The dataset comes from the UFC historical fight data published on Kaggle by Raje
 | `docs/milestone-4-5.md` | Cleaned MongoDB milestone queries and explanations. |
 | `docs/case-study-report.md` | Case study report. |
 | `queries/mongodb-queries.js` | MongoDB query file. |
-| `schema/EER-Fight.jpg` | EER diagram. |
-| `schema/UML.jpg` | UML diagram. |
+| `schema/EER-Fight.png` | EER diagram. |
+| `schema/UML.png` | UML diagram. |
 | `schema/UFC.sql` | SQL source file. |
 | `presentations/UFC-FIGHT-ANALYSIS.pdf` | Project presentation. |
 
@@ -76,9 +76,9 @@ The presentation includes visualizations such as:
 
 ### Schema
 
-![EER Diagram](./schema/EER-Fight.jpg)
+![EER Diagram](./schema/EER-Fight.png)
 
-![UML Diagram](./schema/UML.jpg)
+![UML Diagram](./schema/UML.png)
 
 ### Analysis screenshots
 
@@ -113,8 +113,8 @@ UFC-Fight-Capstone/
 ├── queries/
 │   └── mongodb-queries.js
 ├── schema/
-│   ├── EER-Fight.jpg
-│   ├── UML.jpg
+│   ├── EER-Fight.png
+│   ├── UML.png
 │   └── UFC.sql
 ├── presentations/
 │   └── UFC-FIGHT-ANALYSIS.pdf
@@ -132,6 +132,6 @@ UFC-Fight-Capstone/
 
 ## Notes
 
-- Keep `EER-Fight.jpg` and `UML.jpg` in `schema/`.
+- Keep `EER-Fight.png` and `UML.png` in `schema/`.
 - Keep charts and MongoDB screenshots in `images/`.
 - Make sure the filenames in the README exactly match the files in your folders.
