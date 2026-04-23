@@ -76,29 +76,29 @@ The presentation includes visualizations such as:
 
 ### Schema
 
-![EER Diagram](./schema/EER-Fight.jpg)
+<img src="./schema/EER-Fight.jpg" alt="EER Diagram" width="750">
 
-![UML Diagram](./schema/UML.jpg)
+<img src="./schema/UML.jpg" alt="UML Diagram" width="750">
 
 ### Analysis screenshots
 
-![MongoDB show dbs](./images/mongodb-show-dbs.png)
+<img src="./images/mongodb-show-dbs.png" alt="MongoDB show dbs" width="850">
 
-![MongoDB count middleweight](./images/mongodb-count-middleweight.png)
+<img src="./images/mongodb-count-middleweight.png" alt="MongoDB count middleweight" width="850">
 
-![MongoDB distinct stance](./images/mongodb-distinct-stance.png)
+<img src="./images/mongodb-distinct-stance.png" alt="MongoDB distinct stance" width="850">
 
-![MongoDB fighter F query](./images/mongodb-fighter-f-query.png)
+<img src="./images/mongodb-fighter-f-query.png" alt="MongoDB fighter F query" width="850">
 
-![MongoDB USA events](./images/mongodb-usa-events.png)
+<img src="./images/mongodb-usa-events.png" alt="MongoDB USA events" width="850">
 
-![MongoDB lightweight red](./images/mongodb-lightweight-red.png)
+<img src="./images/mongodb-lightweight-red.png" alt="MongoDB lightweight red" width="850">
 
-![MongoDB lookup fighter event](./images/mongodb-lookup-fighter-event.png)
+<img src="./images/mongodb-lookup-fighter-event.png" alt="MongoDB lookup fighter event" width="850">
 
-![Chart weight class finish type](./images/chart-weight-class-finish-type.png)
+<img src="./images/chart-weight-class-finish-type.png" alt="Chart weight class finish type" width="850">
 
-![Chart top submissions](./images/chart-top-submissions.png)
+<img src="./images/chart-top-submissions.png" alt="Chart top submissions" width="850">
 
 ## Repository structure
 
