@@ -18,7 +18,7 @@ The dataset comes from the UFC historical fight data published on Kaggle by Raje
 | `docs/milestone-4-5.md` | Cleaned MongoDB milestone queries and explanations. |
 | `docs/case-study-report.md` | Case study report. |
 | `queries/mongodb-queries.js` | MongoDB query file. |
-| `schema/EER-Fight.jpg` | EER diagram. |
+| `schema/EER.png` | EER diagram. |
 | `schema/UML.jpg` | UML diagram. |
 | `schema/UFC.sql` | SQL source file. |
 | `presentations/UFC-FIGHT-ANALYSIS.pdf` | Project presentation. |
@@ -48,7 +48,7 @@ Examples shown in the presentation include:
 
 ## MongoDB work
 
-The NoSQL portion of the project was completed in MongoDB using aggregation and `$lookup` to compare fighter, fight, and event data across collections.
+The NoSQL portion of this project was completed in MongoDB using aggregation and `$lookup` to compare fighter, fight, and event data across collections.
 
 The NoSQL milestone demonstrates:
 
@@ -130,3 +130,9 @@ UFC-Fight-Capstone/
     └── chart-top-submissions.png
 ```
 
+## Notes
+
+- Keep `EER.png` in `schema/`.
+- Keep `UML.jpg` in `schema/`.
+- Keep charts and MongoDB screenshots in `images/`.
+- Make sure the filenames in the README exactly match the files in your folders.
