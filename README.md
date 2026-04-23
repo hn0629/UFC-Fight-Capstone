@@ -18,8 +18,8 @@ The dataset comes from the UFC historical fight data published on Kaggle by Raje
 | `docs/milestone-4-5.md` | Cleaned MongoDB milestone queries and explanations. |
 | `docs/case-study-report.md` | Case study report. |
 | `queries/mongodb-queries.js` | MongoDB query file. |
-| `schema/EER-Fight.png` | EER diagram. |
-| `schema/UML.png` | UML diagram. |
+| `schema/EER-Fight.jpg` | EER diagram. |
+| `schema/UML.jpg` | UML diagram. |
 | `schema/UFC.sql` | SQL source file. |
 | `presentations/UFC-FIGHT-ANALYSIS.pdf` | Project presentation. |
 
@@ -69,7 +69,7 @@ The notebook includes Python-based analysis for exploring the UFC dataset. The a
 
 The presentation includes visualizations such as:
 
-- Most Frequent Finish Type by Weight Class,
+- Most Frequent Finish Type by Weight Class.
 - Top 15 Fighters with the Most Submissions.
 
 ## Visual assets
@@ -78,7 +78,7 @@ The presentation includes visualizations such as:
 
 ![EER Diagram](./schema/EER-Fight.png)
 
-![UML Diagram](./schema/UML.png)
+![UML Diagram](./schema/UML.jpg)
 
 ### Analysis screenshots
 
@@ -114,7 +114,7 @@ UFC-Fight-Capstone/
 │   └── mongodb-queries.js
 ├── schema/
 │   ├── EER-Fight.png
-│   ├── UML.png
+│   ├── UML.jpg
 │   └── UFC.sql
 ├── presentations/
 │   └── UFC-FIGHT-ANALYSIS.pdf
@@ -130,8 +130,3 @@ UFC-Fight-Capstone/
     └── chart-top-submissions.png
 ```
 
-## Notes
-
-- Keep `EER-Fight.png` and `UML.png` in `schema/`.
-- Keep charts and MongoDB screenshots in `images/`.
-- Make sure the filenames in the README exactly match the files in your folders.
