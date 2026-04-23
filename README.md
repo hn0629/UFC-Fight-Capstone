@@ -76,7 +76,7 @@ The presentation includes visualizations such as:
 
 ### Schema
 
-![EER Diagram](./schema/EER-Fight.png)
+![EER Diagram](./schema/EER.png)
 
 ![UML Diagram](./schema/UML.jpg)
 
@@ -113,7 +113,7 @@ UFC-Fight-Capstone/
 ├── queries/
 │   └── mongodb-queries.js
 ├── schema/
-│   ├── EER-Fight.png
+│   ├── EER.png
 │   ├── UML.jpg
 │   └── UFC.sql
 ├── presentations/
