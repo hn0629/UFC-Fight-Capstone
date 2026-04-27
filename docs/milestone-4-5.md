@@ -91,3 +91,7 @@ db.event.aggregate([
 ```
 
 **Explanation:** This aggregation query uses `$lookup` to join the `event` collection with the `ufc_fight` collection through `Event_ID`. It helps show which fights belong to each event.
+
+## Notes
+
+The original milestone file contained inconsistent numbering, mixed field naming, and outdated MongoDB formatting. This cleaned version uses clearer wording and standard MongoDB query structure for presentation.
