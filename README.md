@@ -1,101 +1,145 @@
-# UFC Fight Capstone
+# UFC Fight Data Pipeline Project
 
-This capstone project analyzes historical UFC fight data from 1993 to 2021 using database design, SQL, MongoDB, and Python-based exploratory analysis. It combines a Jupyter notebook, a NoSQL milestone, schema diagrams, an SQL source file, and a presentation into one GitHub repository.
+This repository contains a UFC fight data capstone project built around historical UFC fight records from 1993 to 2021. It combines SQL, MongoDB, Python analysis, Airflow orchestration, database design diagrams, documentation, and presentation materials in one organized repo.
 
-## Project overview
+## Overview
 
-The main purpose of this project is to study how UFC fighting styles and fight outcomes evolved over time. The project focuses on trends in submissions, KO/TKO outcomes, takedowns, finish types by weight class, and fighter-level performance insights.
+The project explores how UFC fighting styles and fight outcomes changed over time. The analysis focuses on submissions, knockout trends, takedowns, finish types by weight class, and fighter-level performance patterns.
 
-## Dataset source
+## Project Highlights
 
-The dataset used in this project comes from the UFC historical dataset published on Kaggle by Rajeev Wagh and covers fights from 1993 through March 2021.
+- Exploratory analysis in a Jupyter notebook.
+- MongoDB queries for collections, filtering, joins, and aggregation.
+- SQL and schema work for relational modeling.
+- Airflow pipeline for ETL-style processing.
+- Charts, screenshots, reports, and presentation assets.
 
-## Repository contents
+## Repository Structure
 
-- `UFC-Fight-Data-1993-2021-1.ipynb` — main analysis notebook based on UFC fight data.
-- `docs/milestone-4-5.md` — cleaned MongoDB milestone queries and explanations.
-- `docs/case-study-report.md` — polished case study report.
-- `queries/mongodb-queries.js` — runnable MongoDB query examples.
-- `schema/EER-Fight.jpg` — EER diagram of the project entities.
-- `schema/UML.jpg` — UML-style entity relationship diagram.
-- `schema/UFC.sql` — source SQL schema showing the wide-table origin of the dataset.
-- `presentations/UFC-FIGHT-ANALYSIS.pdf` — project presentation summarizing goals, schema, tools, queries, and visualizations.
+```text
+UFC Fight Data Pipeline Project/
+├── dags/
+│   └── ufc_pipeline_dag.py
+├── data/
+│   ├── ufc.db
+│   ├── raw/
+│   ├── silver/
+│   └── gold/
+├── docs/
+│   ├── case-study-report.md
+│   └── milestone-4-5.md
+├── images/
+│   ├── EER.png
+│   ├── UML.jpg
+│   ├── chart-top-submissions.png
+│   ├── chart-weight-class-finish-type.png
+│   ├── mongodb-count-middleweight.png
+│   ├── mongodb-distinct-stance.png
+│   ├── mongodb-fighter-f-query.png
+│   ├── mongodb-lookup-fighter-event.png
+│   ├── mongodb-show-dbs.png
+│   └── mongodb-usa-events.png
+├── output/
+├── presentations/
+├── queries/
+│   ├── mongodb-queries.js
+│   └── UFC.sql
+├── scripts/
+│   ├── build_gold.py
+│   ├── ingest.py
+│   ├── load.py
+│   ├── transform.py
+│   ├── utils.py
+│   └── validate.py
+├── sql/
+│   └── create_tables.sql
+├── airflow_home/
+├── check_tables.py
+├── config.py
+├── logging_config.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+```
 
-## Database design
+## Data Sources
 
-The project models the UFC data around four main entities:
+The project uses historical UFC fight data originally published on Kaggle and also includes MongoDB, SQL, and schema-based modeling work. The notebook covers fights from 1993 through 2021.
 
-- `fighter`
-- `fighter_details`
-- `event`
-- `ufc_fight`
+## Main Analysis
 
-The EER and UML diagrams show the intended relationships between general fighter information, fighter detail records, fight-level results, and event-level records.
+The notebook explores:
+- yearly fight counts,
+- finish types over time,
+- fighter submission counts,
+- finish type distribution by weight class,
+- and supporting visualizations such as the “Most Frequent Finish Type by Weight Class” and “Top 15 Fighters with the Most Submissions” charts.
 
-The SQL file shows that the original source data was arranged as a single wide table with many columns for red-corner and blue-corner statistics, while the MongoDB work reorganizes the data into smaller logical collections for querying and lookup operations.
+## MongoDB Work
 
-## SQL work
-
-The SQL portion of this project was developed and tested in MySQL Workbench to explore relationships between fighters, fight details, and events. MySQL Workbench provides a SQL editor for writing and executing queries, which makes it useful for relational analysis and joins.
-
-Examples shown in the presentation include:
-- joining `fighter` with `fighter_details`,
-- joining `ufc_fight` with `event`,
-- and filtering for fighters in southpaw stance with weight over 200 lbs.
-
-## MongoDB work
-
-The NoSQL portion of the project was completed in MongoDB using aggregation and `$lookup` to compare fighter, fight, and event data across collections. MongoDB’s `$lookup` stage performs a left outer join between collections, which makes it useful for combining related documents in one result.
-
-The NoSQL milestone demonstrates:
+The MongoDB portion of the project demonstrates:
+- listing databases and collections,
 - counting documents,
 - finding distinct values,
 - regex-based filtering,
-- conditional filtering,
 - and joining collections with `$lookup`.
 
-See `docs/milestone-4-5.md` and `queries/mongodb-queries.js` for the cleaned MongoDB version.
+## SQL and Schema Work
 
-## Python analysis and visualization
+The SQL portion includes a source table definition and database modeling work. The schema diagrams show how the entities connect, including fighter, fighter details, event, UFC fights, winner, referee, title bout, and weight class.
 
-The notebook and presentation show a Python-based analysis workflow that explores fight outcomes over time, weight-class-level finish patterns, and fighter-level submission counts.
+### Analysis screenshots
 
-Examples shown in the project include:
-- Most Frequent Finish Type by Weight Class,
-- Top 15 Fighters with the Most Submissions,
-- yearly fight frequency analysis,
-- and finish-type trend analysis across years.
+![MongoDB show dbs](./images/mongodb-show-dbs.png)
 
-## Project presentation
+![MongoDB count middleweight](./images/mongodb-count-middleweight.png)
 
-The presentation file summarizes the project goals, conceptual data model, sample SQL and MongoDB queries, and selected visual outputs. It is included in the repository under `presentations/UFC-FIGHT-ANALYSIS.pdf`.
+![MongoDB distinct stance](./images/mongodb-distinct-stance.png)
 
-## Repo structure
+![MongoDB fighter F query](./images/mongodb-fighter-f-query.png)
 
-```text
-UFC-Fight-Capstone/
-├── README.md
-├── UFC-Fight-Data-1993-2021-1.ipynb
-├── docs/
-│   ├── milestone-4-5.md
-│   ├── case-study-report.md
-│   └── powershell-github-steps.md
-├── queries/
-│   └── mongodb-queries.js
-├── schema/
-│   ├── EER-Fight.jpg
-│   ├── UML.jpg
-│   └── UFC.sql
-├── presentations/
-│   └── UFC-FIGHT-ANALYSIS.pdf
-└── images/
-    ├── mongodb-show-dbs.png
-    ├── mongodb-count-middleweight.png
-    ├── mongodb-distinct-stance.png
-    ├── mongodb-fighter-f-query.png
-    ├── mongodb-usa-events.png
-    ├── mongodb-lightweight-red.png
-    ├── mongodb-lookup-fighter-event.png
-    ├── chart-weight-class-finish-type.png
-    └── chart-top-submissions.png
+![MongoDB USA events](./images/mongodb-usa-events.png)
+
+![MongoDB lightweight red](./images/mongodb-lightweight-red.png)
+
+![MongoDB lookup fighter event](./images/mongodb-lookup-fighter-event.png)
+
+![Chart weight class finish type](./images/chart-weight-class-finish-type.png)
+
+![Chart top submissions](./images/chart-top-submissions.png)
+
+### Database diagrams
+
+![EER Diagram](./images/EER.png)
+
+![UML Diagram](./images/UML.jpg)
+
+## Airflow Pipeline
+
+The Airflow DAG orchestrates the local ETL flow:
+1. ingest raw data,
+2. transform it,
+3. validate it,
+4. build the gold summary,
+5. and load or verify the final result.
+
+## Environment Setup
+
+Create a virtual environment and install dependencies:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
 ```
+
+## Outputs
+
+Pipeline outputs are written to the local project output folder and should be treated as generated artifacts.
+
+## Notes
+
+- Keep `scripts/` for executable pipeline code.
+- Keep `queries/` for SQL and MongoDB query files only.
+- Keep `docs/`, `images/`, and `presentations/` for project deliverables.
+- Ignore local runtime files, cache folders, and virtual environments.
