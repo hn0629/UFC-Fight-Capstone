@@ -1,37 +1,20 @@
-import logging
 from pathlib import Path
-
 import pandas as pd
 
-from config import SILVER_DIR, GOLD_DIR
-from scripts.utils import ensure_directories, bootstrap_logging
+ROOT = Path(__file__).resolve().parents[1]
+SILVER = ROOT / "data" / "silver"
+GOLD = ROOT / "data" / "gold"
 
-
-LOGGER = logging.getLogger(__name__)
-
-
-def build_gold_layer() -> Path:
-    ensure_directories()
-    silver_path = SILVER_DIR / "ufc_silver.csv"
-    gold_path = GOLD_DIR / "gold_fight_summary.csv"
-
-    df = pd.read_csv(silver_path)
-
-    if "weight_class" in df.columns and "method" in df.columns:
-        gold_df = (
-            df.groupby(["weight_class", "method"], dropna=False)
-            .size()
-            .reset_index(name="fight_count")
-            .sort_values("fight_count", ascending=False)
-        )
+def main():
+    df = pd.read_csv(SILVER / "ufc_silver.csv")
+    if set(["weight_class", "method"]).issubset(df.columns):
+        out_df = df.groupby(["weight_class", "method"], dropna=False).size().reset_index(name="fight_count")
     else:
-        gold_df = pd.DataFrame({"message": ["Required columns not found in silver dataset"]})
-
-    gold_df.to_csv(gold_path, index=False)
-    LOGGER.info("Gold layer written to %s", gold_path)
-    return gold_path
-
+        out_df = pd.DataFrame({"message": ["required columns missing"]})
+    GOLD.mkdir(parents=True, exist_ok=True)
+    out = GOLD / "gold_fight_summary.csv"
+    out_df.to_csv(out, index=False)
+    print(out)
 
 if __name__ == "__main__":
-    bootstrap_logging()
-    build_gold_layer()
+    main()

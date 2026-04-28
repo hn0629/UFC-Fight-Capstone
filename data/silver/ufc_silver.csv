@@ -1,0 +1,2770 @@
+r_fighter;b_fighter;r_kd;b_kd;r_sig_str.;b_sig_str.;r_sig_str_pct;b_sig_str_pct;r_total_str.;b_total_str.;r_td;b_td;r_td_pct;b_td_pct;r_sub_att;b_sub_att;r_rev;b_rev;r_ctrl;b_ctrl;r_head;b_head;r_body;b_body;r_leg;b_leg;r_distance;b_distance;r_clinch;b_clinch;r_ground;b_ground;win_by;last_round;last_round_time;format;referee;date;location;fight_type;winner
+ USA;Bantamweight Bout;Adrian Yanez
+ USA;Middleweight Bout;Trevin Giles
+ USA;Heavyweight Bout;Tai Tuivasa
+ USA;Women's Strawweight Bout;Montserrat Conejo
+ USA;Women's Bantamweight Bout;Macy Chiasson
+ USA;Lightweight Bout;Grant Dawson
+ USA;Welterweight Bout;Max Griffin
+ USA;Middleweight Bout;Derek Brunson
+ USA;Bantamweight Bout;Montel Jackson
+ USA;Flyweight Bout;Bruno Silva
+ USA;Flyweight Bout;Matheus Nicolau
+ USA;Light Heavyweight Bout;Ryan Spann
+ USA;Welterweight Bout;
+ USA;Featherweight Bout;Charles Jourdain
+ USA;Middleweight Bout;
+ USA;Women's Strawweight Bout;Angela Hill
+ USA;Bantamweight Bout;Davey Grant
+ USA;Featherweight Bout;Dan Ige
+ USA;Lightweight Bout;Nasrat Haqparast
+ USA;Women's Flyweight Bout;JJ Aldrich
+ USA;Welterweight Bout;Matthew Semelsberger
+ USA;Bantamweight Bout;Rani Yahya
+ USA;Women's Strawweight Bout;Jinh Yu Frey
+ USA;Bantamweight Bout;Dominick Cruz
+ USA;Bantamweight Bout;Kyler Phillips
+ USA;UFC Bantamweight Title Bout;Aljamain Sterling
+ USA;UFC Light Heavyweight Title Bout;Jan Blachowicz
+ USA;Light Heavyweight Bout;Aleksandar Rakic
+ USA;Flyweight Bout;Askar Askarov
+ USA;UFC Women's Featherweight Title Bout;Amanda Nunes
+ USA;Lightweight Bout;Islam Makhachev
+ USA;Flyweight Bout;Tim Elliott
+ USA;Women's Strawweight Bout;Amanda Lemos
+ USA;Flyweight Bout;Kai Kara-France
+ USA;Lightweight Bout;Uros Medic
+ USA;Light Heavyweight Bout;Kennedy Nzechukwu
+ USA;Welterweight Bout;Sean Brady
+ USA;Bantamweight Bout;Trevin Jones
+ USA;Heavyweight Bout;Ciryl Gane
+ USA;Women's Flyweight Bout;
+ USA;Bantamweight Bout;Ronnie Lawrence
+ USA;Lightweight Bout;Thiago Moises
+ USA;Bantamweight Bout;Pedro Munhoz
+ USA;Featherweight Bout;Alex Caceres
+ USA;Women's Bantamweight Bout;Alexis Davis
+ USA;Light Heavyweight Bout;Magomed Ankalaev
+ USA;Light Heavyweight Bout;Dustin Jacoby
+ USA;Heavyweight Bout;Chris Daukaus
+ USA;Featherweight Bout;Darrick Minner
+ USA;Middleweight Bout;Phil Hawes
+ USA;Heavyweight Bout;Derrick Lewis
+ USA;Bantamweight Bout;John Castaneda
+ USA;Heavyweight Bout;Tom Aspinall
+ USA;Featherweight Bout;Jared Gordon
+ USA;Women's Bantamweight Bout;Yana Kunitskaya
+ USA;Bantamweight Bout;Aiemann Zahabi
+ USA;Heavyweight Bout;Serghei Spivac
+ USA;Featherweight Bout;Julian Erosa
+ USA;Women's Flyweight Bout;Casey O'Neill
+ USA;Women's Flyweight Bout;Alexa Grasso
+ USA;Welterweight Bout;Belal Muhammad
+ USA;Middleweight Bout;Julian Marquez
+ USA;UFC Welterweight Title Bout;Kamaru Usman
+ USA;Featherweight Bout;Ricky Simon
+ USA;Middleweight Bout;Kelvin Gastelum
+ USA;Women's Strawweight Bout;Polyana Viana
+ USA;Middleweight Bout;Anthony Hernandez
+ USA;Welterweight Bout;Gabe Green
+ USA;Catch Weight Bout;Chris Gutierrez
+ USA;Flyweight Bout;Alexandre Pantoja
+ USA;Women's Bantamweight Bout;Karol Rosa
+ USA;Catch Weight Bout;Devonte Smith
+ USA;Lightweight Bout;Clay Guida
+ USA;Heavyweight Bout;Alexander Volkov
+ USA;Lightweight Bout;Beneil Dariush
+ USA;Bantamweight Bout;Cory Sandhagen
+ USA;Light Heavyweight Bout;Danilo Marques
+ USA;Featherweight Bout;Ode Osbourne
+ USA;Featherweight Bout;SeungWoo Choi
+ USA;Women's Flyweight Bout;Lara Procopio
+ USA;Featherweight Bout;Timur Valiev
+ United Arab Emirates;Lightweight Bout;Michael Chandler
+ United Arab Emirates;Middleweight Bout;Makhmud Muradov
+ United Arab Emirates;Women's Bantamweight Bout;Julianna Pena
+ United Arab Emirates;Women's Flyweight Bout;Joanne Calderwood
+ United Arab Emirates;Lightweight Bout;Dustin Poirier
+ United Arab Emirates;Middleweight Bout;Brad Tavares
+ United Arab Emirates;Lightweight Bout;Arman Tsarukyan
+ United Arab Emirates;Women's Strawweight Bout;Marina Rodriguez
+ United Arab Emirates;Flyweight Bout;Amir Albazi
+ United Arab Emirates;Light Heavyweight Bout;Marcin Prachnio
+ United Arab Emirates;Catch Weight Bout;Movsar Evloev
+ United Arab Emirates;Bantamweight Bout;Ricky Simon
+ United Arab Emirates;Middleweight Bout;Omari Akhmedov
+ United Arab Emirates;Welterweight Bout;Warlley Alves
+ United Arab Emirates;Flyweight Bout;Matt Schnell
+ United Arab Emirates;Women's Flyweight Bout;Viviane Araujo
+ United Arab Emirates;Light Heavyweight Bout;Ike Villanueva
+ United Arab Emirates;Welterweight Bout;Michael Chiesa
+ United Arab Emirates;Featherweight Bout;Lerone Murphy
+ United Arab Emirates;Flyweight Bout;Su Mudaerji
+ United Arab Emirates;Flyweight Bout;Francisco Figueiredo
+ United Arab Emirates;Lightweight Bout;Mike Davis
+ United Arab Emirates;Middleweight Bout;Dalcha Lungiambula
+ United Arab Emirates;Bantamweight Bout;Umar Nurmagomedov
+ United Arab Emirates;Women's Flyweight Bout;Manon Fiorot
+ United Arab Emirates;Women's Bantamweight Bout;Joselyne Edwards
+ United Arab Emirates;Middleweight Bout;Punahele Soriano
+ United Arab Emirates;Heavyweight Bout;Carlos Felipe
+ United Arab Emirates;Welterweight Bout;Carlos Condit
+ United Arab Emirates;Welterweight Bout;Ramazan Emeev
+ United Arab Emirates;Middleweight Bout;Alessio Di Chirico
+ United Arab Emirates;Welterweight Bout;Li Jingliang
+ United Arab Emirates;Featherweight Bout;Max Holloway
+ United Arab Emirates;Women's Bantamweight Bout;Vanessa Melo
+ United Arab Emirates;Featherweight Bout;Austin Lingo
+ USA;Bantamweight Bout;Rob Font
+ USA;Women's Bantamweight Bout;Pannie Kianzad
+ USA;Catch Weight Bout;Deron Winn
+ USA;Welterweight Bout;Stephen Thompson
+ USA;Bantamweight Bout;Jose Aldo
+ USA;Welterweight Bout;Anthony Pettis
+ USA;Heavyweight Bout;Marcin Tybura
+ USA;Welterweight Bout;Michel Pereira
+ USA;Women's Flyweight Bout;Taila Santos
+ USA;Flyweight Bout;Jimmy Flick
+ USA;Middleweight Bout;Tafon Nchukwi
+ USA;Catch Weight Bout;Christos Giagos
+ USA;Lightweight Bout;Rafael Fiziev
+ USA;Middleweight Bout;Kevin Holland
+ USA;Women's Strawweight Bout;Mackenzie Dern
+ USA;Lightweight Bout;Charles Oliveira
+ USA;UFC Flyweight Title Bout;
+ USA;Featherweight Bout;Gavin Tucker
+ USA;Featherweight Bout;Cub Swanson
+ USA;Women's Strawweight Bout;Tecia Torres
+ USA;Featherweight Bout;Chase Hooper
+ USA;Lightweight Bout;Gabriel Benitez
+ USA;Light Heavyweight Bout;Roman Dolidze
+ USA;Featherweight Bout;Ilia Topuria
+ USA;Bantamweight Bout;Louis Smolka
+ USA;Heavyweight Bout;Jake Collier
+ USA;Light Heavyweight Bout;Jamahal Hill
+ USA;Lightweight Bout;Jordan Leavitt
+ USA;Middleweight Bout;Marvin Vettori
+ USA;Women's Bantamweight Bout;Norma Dumont
+ USA;Featherweight Bout;Jonathan Pearce
+ USA;Welterweight Bout;Miguel Baeza
+ USA;Heavyweight Bout;Parker Porter
+ USA;Light Heavyweight Bout;Anthony Smith
+ USA;Featherweight Bout;Bill Algeo
+ USA;Bantamweight Bout;Anderson Dos Santos
+ USA;Catch Weight Bout;Nate Maness
+ USA;Women's Flyweight Bout;Gina Mazany
+ USA;Flyweight Bout;Su Mudaerji
+ USA;Flyweight Bout;Brandon Moreno
+ USA;Middleweight Bout;Joaquin Buckley
+ USA;Women's Flyweight Bout;Katlyn Chookagian
+ USA;Women's Flyweight Bout;Antonina Shevchenko
+ USA;UFC Women's Flyweight Title Bout;Valentina Shevchenko
+ USA;UFC Flyweight Title Bout;Deiveson Figueiredo
+ USA;Light Heavyweight Bout;Paul Craig
+ USA;Welterweight Bout;Tim Means
+ USA;Welterweight Bout;Alan Jouban
+ USA;Welterweight Bout;Nicolas Dalby
+ USA;Welterweight Bout;Sasha Palatnikov
+ USA;Middleweight Bout;Kyle Daukaus
+ USA;Women's Strawweight Bout;Ashley Yoder
+ USA;Women's Strawweight Bout;Cory McKenna
+ USA;Women's Strawweight Bout;Kanako Murata
+ USA;Catch Weight Bout;Sean Strickland
+ USA;Bantamweight Bout;Tony Gravely
+ USA;Welterweight Bout;Alex Morono
+ USA;Welterweight Bout;Khaos Williams
+ USA;Lightweight Bout;Rafael Dos Anjos
+ USA;Heavyweight Bout;Don'Tale Mayes
+ USA;Light Heavyweight Bout;Glover Teixeira
+ USA;Heavyweight Bout;Andrei Arlovski
+ USA;Heavyweight Bout;Alexandr Romanov
+ USA;Women's Strawweight Bout;Yan Xiaonan
+ USA;Featherweight Bout;Darren Elkins
+ USA;Featherweight Bout;Giga Chikadze
+ USA;Bantamweight Bout;Raoni Barcelos
+ USA;Bantamweight Bout;Gustavo Lopez
+ USA;Lightweight Bout;Alexander Hernandez
+ USA;Heavyweight Bout;Greg Hardy
+ USA;Middleweight Bout;Sean Strickland
+ USA;Middleweight Bout;Uriah Hall
+ USA;Featherweight Bout;Bryce Mitchell
+ USA;Welterweight Bout;Jason Witt
+ USA;Bantamweight Bout;Miles Johns
+ United Arab Emirates;Middleweight Bout;Phil Hawes
+ United Arab Emirates;Heavyweight Bout;Alexander Volkov
+ United Arab Emirates;Light Heavyweight Bout;Magomed Ankalaev
+ United Arab Emirates;Heavyweight Bout;Tai Tuivasa
+ United Arab Emirates;Middleweight Bout;Robert Whittaker
+ United Arab Emirates;Women's Flyweight Bout;Lauren Murphy
+ United Arab Emirates;UFC Lightweight Title Bout;Khabib Nurmagomedov
+ United Arab Emirates;Catch Weight Bout;Casey Kenney
+ United Arab Emirates;Lightweight Bout;Joel Alvarez
+ United Arab Emirates;Women's Flyweight Bout;Miranda Maverick
+ United Arab Emirates;Light Heavyweight Bout;
+ United Arab Emirates;Welterweight Bout;Shavkat Rakhmonov
+ United Arab Emirates;Women's Flyweight Bout;Jessica Andrade
+ United Arab Emirates;Featherweight Bout;Jonathan Martinez
+ United Arab Emirates;Light Heavyweight Bout;Jimmy Crute
+ United Arab Emirates;Lightweight Bout;Guram Kutateladze
+ United Arab Emirates;Middleweight Bout;Junyong Park
+ United Arab Emirates;Women's Flyweight Bout;Gillian Robertson
+ United Arab Emirates;Welterweight Bout;James Krause
+ United Arab Emirates;Featherweight Bout;Brian Ortega
+ United Arab Emirates;Light Heavyweight Bout;Maxim Grishin
+ United Arab Emirates;Bantamweight Bout;Said Nurmagomedov
+ United Arab Emirates;Lightweight Bout;Fares Ziam
+ United Arab Emirates;Bantamweight Bout;Cory Sandhagen
+ United Arab Emirates;Middleweight Bout;Tom Breese
+ United Arab Emirates;Heavyweight Bout;Chris Daukaus
+ United Arab Emirates;Middleweight Bout;Dricus Du Plessis
+ United Arab Emirates;Heavyweight Bout;Marcin Tybura
+ United Arab Emirates;Featherweight Bout;Ilia Topuria
+ United Arab Emirates;Heavyweight Bout;Tom Aspinall
+ United Arab Emirates;Featherweight Bout;Edson Barboza
+ United Arab Emirates;Middleweight Bout;Joaquin Buckley
+ United Arab Emirates;Featherweight Bout;Giga Chikadze
+ United Arab Emirates;Bantamweight Bout;Tony Kelley
+ United Arab Emirates;Women's Bantamweight Bout;Tracy Cortez
+ United Arab Emirates;Flyweight Bout;Tagir Ulanbekov
+ United Arab Emirates;Middleweight Bout;Dusko Todorovic
+ United Arab Emirates;Featherweight Bout;
+ United Arab Emirates;Women's Bantamweight Bout;Germaine de Randamie
+ United Arab Emirates;Bantamweight Bout;Kyler Phillips
+ United Arab Emirates;Women's Bantamweight Bout;Holly Holm
+ United Arab Emirates;Middleweight Bout;Nassourdine Imavov
+ United Arab Emirates;Women's Strawweight Bout;Loma Lookboonmee
+ United Arab Emirates;Bantamweight Bout;Casey Kenney
+ United Arab Emirates;Lightweight Bout;Luigi Vendramini
+ United Arab Emirates;Women's Bantamweight Bout;Ketlen Vieira
+ United Arab Emirates;UFC Middleweight Title Bout;Israel Adesanya
+ United Arab Emirates;Flyweight Bout;Brandon Royval
+ United Arab Emirates;Featherweight Bout;Ludovit Klein
+ United Arab Emirates;Welterweight Bout;Jake Matthews
+ United Arab Emirates;Lightweight Bout;Brad Riddell
+ United Arab Emirates;UFC Light Heavyweight Title Bout;Jan Blachowicz
+ United Arab Emirates;Featherweight Bout;Hakeem Dawodu
+ United Arab Emirates;Light Heavyweight Bout;William Knight
+ United Arab Emirates;Light Heavyweight Bout;Danilo Marques
+ United Arab Emirates;Heavyweight Bout;Juan Espino
+ USA;Light Heavyweight Bout;Johnny Walker
+ USA;Featherweight Bout;Damon Jackson
+ USA;Welterweight Bout;Colby Covington
+ USA;Flyweight Bout;David Dvorak
+ USA;Middleweight Bout;Khamzat Chimaev
+ USA;Women's Bantamweight Bout;Jessica-Rose Clark
+ USA;Bantamweight Bout;Randy Costa
+ USA;Women's Flyweight Bout;Mayra Bueno Silva
+ USA;Bantamweight Bout;Andre Ewell
+ USA;Bantamweight Bout;Tyson Nam
+ USA;Lightweight Bout;Bobby Green
+ USA;Lightweight Bout;
+ USA;Featherweight Bout;Billy Quarantillo
+ USA;Women's Bantamweight Bout;Sijara Eubanks
+ USA;Women's Strawweight Bout;Michelle Waterson
+ USA;Women's Flyweight Bout;Roxanne Modafferi
+ USA;Light Heavyweight Bout;Ed Herman
+ USA;Lightweight Bout;Ottman Azaitar
+ USA;Catch Weight Bout;Jalin Turner
+ USA;Welterweight Bout;Bryan Barberena
+ USA;Women's Flyweight Bout;Sabina Mazo
+ USA;Light Heavyweight Bout;Ovince Saint Preux
+ USA;Featherweight Bout;Brian Kelleher
+ USA;Women's Flyweight Bout;Viviane Araujo
+ USA;Middleweight Bout;Andre Muniz
+ USA;Bantamweight Bout;Hunter Azure
+ USA;Heavyweight Bout;Alistair Overeem
+ USA;Middleweight Bout;Zak Cummings
+ USA;Featherweight Bout;Ricardo Lamas
+ USA;Welterweight Bout;Neil Magny
+ USA;Middleweight Bout;Impa Kasanganay
+ USA;Women's Strawweight Bout;Mallory Martin
+ USA;Light Heavyweight Bout;Jordan Wright
+ USA;Welterweight Bout;Daniel Rodriguez
+ USA;Light Heavyweight Bout;Mike Rodriguez
+ USA;Women's Flyweight Bout;Shana Dobson
+ USA;Lightweight Bout;Joe Solecki
+ USA;Bantamweight Bout;Frankie Edgar
+ USA;Catch Weight Bout;
+ USA;Heavyweight Bout;Jairzinho Rozenstruik
+ USA;Featherweight Bout;Daniel Pineda
+ USA;Women's Strawweight Bout;Virna Jandiroba
+ USA;Bantamweight Bout;Marlon Vera
+ USA;Bantamweight Bout;Merab Dvalishvili
+ USA;UFC Heavyweight Title Bout;Stipe Miocic
+ USA;Featherweight Bout;Danny Chavez
+ USA;Lightweight Bout;Vinc Pichel
+ USA;Featherweight Bout;Kai Kamaka
+ USA;Women's Strawweight Bout;Livinha Souza
+ USA;Middleweight Bout;Darren Stewart
+ USA;Middleweight Bout;Chris Weidman
+ USA;Featherweight Bout;Youssef Zalal
+ USA;Bantamweight Bout;Irwin Rivera
+ USA;Middleweight Bout;Andrew Sanchez
+ USA;Women's Flyweight Bout;Jennifer Maia
+ USA;Featherweight Bout;Nate Maness
+ USA;Bantamweight Bout;Jonathan Martinez
+ USA;Featherweight Bout;Jamall Emmers
+ USA;Welterweight Bout;Vicente Luque
+ USA;Bantamweight Bout;
+ United Arab Emirates;Welterweight Bout;Alex Oliveira
+ United Arab Emirates;Light Heavyweight Bout;Mauricio Rua
+ United Arab Emirates;Lightweight Bout;Francisco Trinaldo
+ United Arab Emirates;Women's Strawweight Bout;Carla Esparza
+ United Arab Emirates;Welterweight Bout;Khamzat Chimaev
+ United Arab Emirates;Light Heavyweight Bout;Paul Craig
+ United Arab Emirates;Heavyweight Bout;Fabricio Werdum
+ United Arab Emirates;Welterweight Bout;
+ United Arab Emirates;Heavyweight Bout;Tanner Boser
+ United Arab Emirates;Featherweight Bout;Movsar Evloev
+ United Arab Emirates;Women's Bantamweight Bout;Pannie Kianzad
+ United Arab Emirates;Bantamweight Bout;Nathaniel Wood
+ United Arab Emirates;Middleweight Bout;Jack Hermansson
+ United Arab Emirates;Lightweight Bout;Rafael Fiziev
+ United Arab Emirates;Flyweight Bout;Askar Askarov
+ United Arab Emirates;Catch Weight Bout;Grant Dawson
+ United Arab Emirates;UFC Flyweight Title Bout;Deiveson Figueiredo
+ United Arab Emirates;Light Heavyweight Bout;Roman Dolidze
+ United Arab Emirates;Women's Flyweight Bout;Ariane Lipski
+ United Arab Emirates;Bantamweight Bout;Amir Albazi
+ United Arab Emirates;Bantamweight Bout;Brett Johns
+ United Arab Emirates;Heavyweight Bout;Serghei Spivac
+ United Arab Emirates;Light Heavyweight Bout;Modestas Bukauskas
+ United Arab Emirates;Women's Flyweight Bout;Taila Santos
+ United Arab Emirates;Middleweight Bout;Khamzat Chimaev
+ United Arab Emirates;Featherweight Bout;Jimmie Rivera
+ United Arab Emirates;Featherweight Bout;Calvin Kattar
+ United Arab Emirates;Welterweight Bout;Mounir Lazzez
+ United Arab Emirates;Flyweight Bout;Tim Elliott
+ United Arab Emirates;Women's Flyweight Bout;Liana Jojua
+ United Arab Emirates;Bantamweight Bout;Jack Shore
+ United Arab Emirates;Featherweight Bout;Jared Gordon
+ United Arab Emirates;Women's Strawweight Bout;Rose Namajunas
+ United Arab Emirates;Featherweight Bout;Makwan Amirkhani
+ United Arab Emirates;Light Heavyweight Bout;Jiri Prochazka
+ United Arab Emirates;Welterweight Bout;Muslim Salikhov
+ United Arab Emirates;UFC Bantamweight Title Bout;Petr Yan
+ United Arab Emirates;UFC Featherweight Title Bout;Alexander Volkanovski
+ United Arab Emirates;UFC Welterweight Title Bout;Kamaru Usman
+ United Arab Emirates;Women's Flyweight Bout;Amanda Ribas
+ United Arab Emirates;Lightweight Bout;Leonardo Santos
+ United Arab Emirates;Women's Bantamweight Bout;Karol Rosa
+ United Arab Emirates;Flyweight Bout;Raulian Paiva
+ United Arab Emirates;Bantamweight Bout;Davey Grant
+ USA;Lightweight Bout;Khama Worthy
+ USA;Heavyweight Bout;Tanner Boser
+ USA;Heavyweight Bout;Maurice Greene
+ USA;Catch Weight Bout;Julian Erosa
+ USA;Welterweight Bout;Mike Perry
+ USA;Lightweight Bout;Dustin Poirier
+ USA;Middleweight Bout;Brendan Allen
+ USA;Welterweight Bout;Takashi Sato
+ USA;Women's Strawweight Bout;Kay Hansen
+ USA;Catch Weight Bout;Jim Miller
+ USA;Heavyweight Bout;Curtis Blaydes
+ USA;Featherweight Bout;Josh Emmett
+ USA;Women's Bantamweight Bout;Raquel Pennington
+ USA;Women's Flyweight Bout;Gillian Robertson
+ USA;Lightweight Bout;Justin Jaynes
+ USA;Women's Flyweight Bout;Lauren Murphy
+ USA;Lightweight Bout;Austin Hubbard
+ USA;Women's Flyweight Bout;Mariya Agapova
+ USA;Featherweight Bout;Andre Fili
+ USA;Catch Weight Bout;Merab Dvalishvili
+ USA;Bantamweight Bout;Jordan Espinosa
+ USA;Lightweight Bout;Charles Rosa
+ USA;Women's Flyweight Bout;Cynthia Calvillo
+ USA;Women's Bantamweight Bout;Julia Avila
+ USA;Welterweight Bout;Christian Aguilera
+ USA;Featherweight Bout;Cody Stamann
+ USA;Bantamweight Bout;Sean O'Malley
+ USA;Bantamweight Bout;Cody Garbrandt
+ USA;Bantamweight Bout;Aljamain Sterling
+ USA;Middleweight Bout;Ian Heinisch
+ USA;Middleweight Bout;Maki Pitolo
+ USA;Catch Weight Bout;Herbert Burns
+ USA;Light Heavyweight Bout;Devin Clark
+ USA;Flyweight Bout;Alex Perez
+ USA;Heavyweight Bout;Augusto Sakai
+ USA;Light Heavyweight Bout;
+ USA;Welterweight Bout;Gilbert Burns
+ USA;Lightweight Bout;Roosevelt Roberts
+ USA;Catch Weight Bout;Billy Quarantillo
+ USA;Flyweight Bout;Brandon Royval
+ USA;Bantamweight Bout;Casey Kenney
+ USA;Featherweight Bout;Chris Gutierrez
+ USA;Women's Strawweight Bout;Claudia Gadelha
+ USA;Middleweight Bout;Krzysztof Jotko
+ USA;Featherweight Bout;Song Yadong
+ USA;Women's Flyweight Bout;Cortney Casey
+ USA;Featherweight Bout;Nate Landwehr
+ USA;Heavyweight Bout;Rodrigo Nascimento
+ USA;Bantamweight Bout;Ricky Simon
+ USA;Heavyweight Bout;Ben Rothwell
+ USA;Lightweight Bout;Omar Morales
+ USA;Lightweight Bout;Drew Dober
+ USA;Heavyweight Bout;Chase Sherman
+ USA;Women's Strawweight Bout;Carla Esparza
+ USA;Heavyweight Bout;Aleksei Oleinik
+ USA;Featherweight Bout;Calvin Kattar
+ USA;UFC Interim Lightweight Title Bout;Justin Gaethje
+ USA;Heavyweight Bout;Francis Ngannou
+ USA;UFC Bantamweight Title Bout;Henry Cejudo
+ Brazil;Women's Strawweight Bout;Amanda Ribas
+ Brazil;Flyweight Bout;Brandon Moreno
+ Brazil;Lightweight Bout;Renato Moicano
+ Brazil;Welterweight Bout;Elizeu Zaleski dos Santos
+ Brazil;Light Heavyweight Bout;Nikita Krylov
+ Brazil;Welterweight Bout;Gilbert Burns
+ Brazil;Lightweight Bout;Charles Oliveira
+ Brazil;Lightweight Bout;Francisco Trinaldo
+ Brazil;Bantamweight Bout;
+ Brazil;Women's Flyweight Bout;Maryna Moroz
+ Brazil;Flyweight Bout;David Dvorak
+ Brazil;Women's Bantamweight Bout;Bea Malecki
+ USA;UFC Middleweight Title Bout;Israel Adesanya
+ USA;UFC Women's Strawweight Title Bout;Zhang Weili
+ USA;Middleweight Bout;Rodolfo Vieira
+ USA;Lightweight Bout;Mark Madsen
+ USA;Bantamweight Bout;Batgerel Danaa
+ USA;Middleweight Bout;Gerald Meerschaert
+ USA;Welterweight Bout;Alex Oliveira
+ USA;Women's Featherweight Bout;Felicia Spencer
+ USA;Featherweight Bout;Grant Dawson
+ USA;Flyweight Bout;Deiveson Figueiredo
+ USA;Women's Featherweight Bout;Megan Anderson
+ USA;Featherweight Bout;Jordan Griffin
+ USA;Featherweight Bout;Spike Carlyle
+ USA;Lightweight Bout;Luis Pena
+""
+ USA;Lightweight Bout;Lando Vannata
+ USA;Lightweight Bout;Brok Weaver
+ USA;Women's Flyweight Bout;Montana De La Rosa
+ USA;Flyweight Bout;Ray Borg
+ USA;Welterweight Bout;Diego Sanchez
+ USA;Light Heavyweight Bout;Jan Blachowicz
+ USA;Bantamweight Bout;John Dodson
+ USA;Lightweight Bout;Scott Holtzman
+ USA;Flyweight Bout;Raulian Paiva
+ USA;Heavyweight Bout;Justin Tafa
+ USA;UFC Light Heavyweight Title Bout;Jon Jones
+ USA;Bantamweight Bout;Mario Bautista
+ USA;Women's Flyweight Bout;Justine Kish
+ USA;Middleweight Bout;Bevon Lewis
+ USA;Welterweight Bout;Michael Chiesa
+ USA;Featherweight Bout;Arnold Allen
+ USA;Women's Bantamweight Bout;Sara McMann
+ USA;Bantamweight Bout;Brett Johns
+ USA;Featherweight Bout;Herbert Burns
+ USA;Lightweight Bout;Diego Ferreira
+ USA;Women's Bantamweight Bout;Holly Holm
+ USA;Welterweight Bout;Conor McGregor
+ USA;Featherweight Bout;Sodiq Yusuff
+ USA;Bantamweight Bout;Brian Kelleher
+ USA;Light Heavyweight Bout;Aleksa Camur
+ USA;Welterweight Bout;Geoff Neal
+ USA;Middleweight Bout;Omari Akhmedov
+ USA;UFC Women's Bantamweight Title Bout;Amanda Nunes
+ USA;UFC Featherweight Title Bout;Alexander Volkanovski
+ USA;Bantamweight Bout;Petr Yan
+ USA;Bantamweight Bout;Marlon Moraes
+ USA;Women's Bantamweight Bout;Irene Aldana
+ USA;Welterweight Bout;Matt Brown
+ USA;Women's Flyweight Bout;Jessica Eye
+ USA;Middleweight Bout;Punahele Soriano
+ USA;Women's Strawweight Bout;
+ USA;Women's Bantamweight Bout;Aspen Ladd
+ USA;Middleweight Bout;Makhmud Muradov
+ Brazil;Welterweight Bout;James Krause
+ Brazil;Light Heavyweight Bout;Jan Blachowicz
+ Brazil;Featherweight Bout;Ricardo Ramos
+ Brazil;Middleweight Bout;Andre Muniz
+ Brazil;Light Heavyweight Bout;
+ Brazil;Middleweight Bout;Wellington Turman
+ Brazil;Welterweight Bout;Randy Brown
+ Brazil;Women's Flyweight Bout;Ariane Lipski
+ Brazil;Featherweight Bout;Douglas Silva de Andrade
+ Brazil;Women's Bantamweight Bout;Tracy Cortez
+ Russia;Heavyweight Bout;Alexander Volkov
+ Russia;Light Heavyweight Bout;Shamil Gamzatov
+ Russia;Welterweight Bout;Danny Roberts
+ Russia;Welterweight Bout;Rustam Khabilov
+ Russia;Light Heavyweight Bout;Ed Herman
+ Russia;Welterweight Bout;Anthony Rocco Martin
+ Russia;Featherweight Bout;Zabit Magomedsharipov
+ Russia;Light Heavyweight Bout;Magomed Ankalaev
+ Russia;Welterweight Bout;David Zawada
+ Russia;Middleweight Bout;Karl Roberson
+ Russia;Lightweight Bout;Roosevelt Roberts
+ Russia;Women's Bantamweight Bout;Pannie Kianzad
+ Russia;Bantamweight Bout;Davey Grant
+ USA;Lightweight Bout;Kevin Lee
+ USA;Welterweight Bout;Jorge Masvidal
+ USA;Featherweight Bout;Shane Burgos
+ USA;Light Heavyweight Bout;Corey Anderson
+ USA;Middleweight Bout;Darren Till
+ USA;Middleweight Bout;Edmen Shahbazyan
+ USA;Featherweight Bout;Hakeem Dawodu
+ USA;Welterweight Bout;Lyman Good
+ USA;Women's Flyweight Bout;Maycee Barber
+ USA;Heavyweight Bout;
+ USA;Women's Flyweight Bout;Molly McCann
+ USA;Featherweight Bout;Charles Rosa
+ USA;Lightweight Bout;Joe Lauzon
+ USA;Light Heavyweight Bout;Dominick Reyes
+ USA;Featherweight Bout;Yair Rodriguez
+ USA;Featherweight Bout;Sean Woodson
+ USA;Women's Strawweight Bout;Amanda Ribas
+ USA;Lightweight Bout;Mike Davis
+ USA;Lightweight Bout;Matt Frevola
+ USA;Middleweight Bout;Eryk Anders
+ USA;Women's Strawweight Bout;Joanna Jedrzejczyk
+ USA;Welterweight Bout;Niko Price
+ Australia;Heavyweight Bout;Yorgan De Castro
+ Australia;UFC Middleweight Title Bout;Israel Adesanya
+ Australia;Welterweight Bout;Jake Matthews
+ Australia;Heavyweight Bout;Serghei Spivac
+ Australia;Lightweight Bout;Brad Riddell
+ Australia;Lightweight Bout;Dan Hooker
+ Australia;Welterweight Bout;Callan Potter
+ Australia;Welterweight Bout;Dhiego Lima
+ Australia;Women's Featherweight Bout;Megan Anderson
+ Australia;Bantamweight Bout;
+ Australia;Women's Flyweight Bout;Ji Yeon Kim
+ Mexico;Featherweight Bout;Steven Peterson
+ Mexico;Bantamweight Bout;Jose Quinonez
+ Mexico;Women's Strawweight Bout;Carla Esparza
+ Mexico;Women's Strawweight Bout;Angela Hill
+ Mexico;Featherweight Bout;Kyle Nelson
+ Mexico;Flyweight Bout;
+ Mexico;Women's Bantamweight Bout;Irene Aldana
+ Mexico;Featherweight Bout;
+ Mexico;Light Heavyweight Bout;Paul Craig
+ Mexico;Lightweight Bout;Claudio Puelles
+ Mexico;Women's Bantamweight Bout;Bethe Correia
+ Mexico;Flyweight Bout;Sergio Pettis
+ Canada;Lightweight Bout;Justin Gaethje
+ Canada;Light Heavyweight Bout;Misha Cirkunov
+ Canada;Bantamweight Bout;Miles Johns
+ Canada;Heavyweight Bout;Augusto Sakai
+ Canada;Middleweight Bout;Uriah Hall
+ Canada;Light Heavyweight Bout;Glover Teixeira
+ Canada;Heavyweight Bout;
+ Canada;Welterweight Bout;Tristan Connelly
+ Canada;Bantamweight Bout;Louis Smolka
+ Canada;Lightweight Bout;Austin Hubbard
+ Canada;Featherweight Bout;Chas Skelly
+ Canada;Bantamweight Bout;Hunter Azure
+ United Arab Emirates;Heavyweight Bout;Curtis Blaydes
+ United Arab Emirates;Women's Bantamweight Bout;Sarah Moras
+ United Arab Emirates;Lightweight Bout;Islam Makhachev
+ United Arab Emirates;Lightweight Bout;Paul Felder
+ United Arab Emirates;Lightweight Bout;Diego Ferreira
+ United Arab Emirates;Lightweight Bout;Ottman Azaitar
+ United Arab Emirates;Welterweight Bout;Belal Muhammad
+ United Arab Emirates;Lightweight Bout;Don Madge
+ China;Light Heavyweight Bout;Da-Un Jung
+ China;Flyweight Bout;Kai Kara-France
+ China;Welterweight Bout;Li Jingliang
+ China;Bantamweight Bout;Su Mudaerji
+ China;Women's Flyweight Bout;Inoue Mizuki
+ China;UFC Women's Strawweight Title Bout;Zhang Weili
+ China;Welterweight Bout;Song Kenan
+ China;Middleweight Bout;Anthony Hernandez
+ China;Lightweight Bout;Damir Ismagulov
+ China;Women's Bantamweight Bout;Karol Rosa
+ China;Bantamweight Bout;Heili Alateng
+ USA;Welterweight Bout;Nate Diaz
+ USA;Lightweight Bout;Drakkar Klose
+ USA;Middleweight Bout;Paulo Costa
+ USA;Bantamweight Bout;Kyung Ho Kang
+ USA;Women's Strawweight Bout;Hannah Cifers
+ USA;Catch Weight Bout;Casey Kenney
+ USA;Lightweight Bout;Jim Miller
+ USA;Women's Flyweight Bout;Miranda Granger
+ USA;Flyweight Bout;Matt Schnell
+ USA;Welterweight Bout;Claudio Silva
+ USA;Welterweight Bout;Mickey Gall
+ Canada;Featherweight Bout;Gavin Tucker
+ Canada;Welterweight Bout;Geoff Neal
+ Canada;Featherweight Bout;Hakeem Dawodu
+ Canada;Middleweight Bout;Krzysztof Jotko
+ Canada;Women's Featherweight Bout;Cristiane Justino
+ Canada;Lightweight Bout;Arman Tsarukyan
+ Canada;Women's Flyweight Bout;Viviane Araujo
+ Canada;UFC Featherweight Title Bout;Max Holloway
+ Canada;Flyweight Bout;Deiveson Figueiredo
+ Canada;Women's Flyweight Bout;Gillian Robertson
+ Canada;Welterweight Bout;Erik Koch
+ USA;Welterweight Bout;Leon Edwards
+ USA;Lightweight Bout;Dan Hooker
+ USA;Heavyweight Bout;Walt Harris
+ USA;Light Heavyweight Bout;Klidson Abreu
+ USA;Bantamweight Bout;Felipe Colares
+ USA;Bantamweight Bout;Ray Borg
+ USA;Women's Bantamweight Bout;Julianna Pena
+ USA;Bantamweight Bout;Urijah Faber
+ USA;Women's Bantamweight Bout;Germaine de Randamie
+ USA;Middleweight Bout;Karl Roberson
+ USA;Bantamweight Bout;Benito Lopez
+ USA;Women's Strawweight Bout;Brianna Van Buren
+ USA;Featherweight Bout;Ryan Hall
+ USA;Bantamweight Bout;Song Yadong
+ USA;Welterweight Bout;Chance Rencountre
+ USA;Light Heavyweight Bout;Eryk Anders
+ USA;Flyweight Bout;Joseph Benavidez
+ USA;Light Heavyweight Bout;Alonzo Menifield
+ USA;Welterweight Bout;Demian Maia
+ USA;Bantamweight Bout;Ricardo Ramos
+ USA;Light Heavyweight Bout;Dalcha Lungiambula
+ USA;Lightweight Bout;Jared Gordon
+ USA;Women's Flyweight Bout;Andrea Lee
+ USA;Featherweight Bout;Chan Sung Jung
+ USA;Welterweight Bout;Randy Brown
+ USA;Middleweight Bout;Deron Winn
+ USA;Women's Strawweight Bout;Tatiana Suarez
+ USA;Heavyweight Bout;Blagoy Ivanov
+ USA;Lightweight Bout;Tony Ferguson
+ USA;Women's Strawweight Bout;Alexa Grasso
+ USA;Bantamweight Bout;Eddie Wineland
+ USA;Lightweight Bout;Davi Ramos
+ USA;Welterweight Bout;Rafael Dos Anjos
+ USA;Lightweight Bout;Desmond Green
+ USA;Featherweight Bout;Julio Arce
+ Brazil;Women's Bantamweight Bout;Irene Aldana
+ Brazil;Middleweight Bout;Jared Cannonier
+ Brazil;Light Heavyweight Bout;Ryan Spann
+ Brazil;Lightweight Bout;Thiago Moises
+ Brazil;Featherweight Bout;Alexander Volkanovski
+ Brazil;Welterweight Bout;Laureano Staropoli
+ Brazil;Welterweight Bout;Warlley Alves
+ Brazil;UFC Women's Strawweight Title Bout;Jessica Andrade
+ Brazil;Bantamweight Bout;Raoni Barcelos
+ Brazil;Lightweight Bout;Clay Guida
+ Brazil;Women's Flyweight Bout;Luana Carolina
+ Brazil;Women's Bantamweight Bout;Viviane Araujo
+ Canada;Heavyweight Bout;Walt Harris
+ Canada;Lightweight Bout;Donald Cerrone
+ Canada;Middleweight Bout;Andrew Sanchez
+ Canada;Bantamweight Bout;Vince Morales
+ Canada;Middleweight Bout;Derek Brunson
+ Canada;Women's Bantamweight Bout;Macy Chiasson
+ Canada;Featherweight Bout;Shane Burgos
+ Canada;Bantamweight Bout;Merab Dvalishvili
+ Canada;Welterweight Bout;Nordine Taleb
+ Canada;Featherweight Bout;Matt Sayles
+ Canada;Heavyweight Bout;Arjan Bhullar
+ Canada;Bantamweight Bout;Cole Smith
+ USA;Middleweight Bout;Jack Hermansson
+ USA;Lightweight Bout;Gilbert Burns
+ USA;Welterweight Bout;Dhiego Lima
+ Russia;Women's Flyweight Bout;Roxanne Modafferi
+ Russia;Lightweight Bout;Alexander Yakovlev
+ Russia;Lightweight Bout;Islam Makhachev
+ Russia;Middleweight Bout;Krzysztof Jotko
+ Russia;Heavyweight Bout;Sergei Pavlovich
+ Russia;Heavyweight Bout;Alistair Overeem
+ Russia;Featherweight Bout;Movsar Evloev
+ Russia;Welterweight Bout;Sultan Aliev
+ Russia;Heavyweight Bout;Shamil Abdurakhimov
+ Russia;Light Heavyweight Bout;Michal Oleksiejczuk
+ Russia;Lightweight Bout;Magomed Mustafaev
+ USA;UFC Interim Lightweight Title Bout;Dustin Poirier
+ USA;Light Heavyweight Bout;Khalil Rountree Jr.
+ USA;Welterweight Bout;Dwight Grant
+ USA;Light Heavyweight Bout;Nikita Krylov
+ USA;UFC Interim Middleweight Title Bout;Israel Adesanya
+ USA;Bantamweight Bout;Khalid Taha
+ USA;Bantamweight Bout;Brandon Davis
+ USA;Women's Flyweight Bout;Poliana Botelho
+ USA;Lightweight Bout;Justin Gaethje
+ USA;Women's Strawweight Bout;Marina Rodriguez
+ USA;Featherweight Bout;Kevin Aguilar
+ USA;Bantamweight Bout;Alex Perez
+ USA;Women's Flyweight Bout;Maryna Moroz
+ USA;Flyweight Bout;Jussier Formiga
+ USA;Lightweight Bout;John Makdessi
+ USA;Featherweight Bout;Luis Pena
+ USA;Women's Strawweight Bout;Randa Markos
+ USA;Flyweight Bout;Jordan Espinosa
+ USA;Bantamweight Bout;Chris Gutierrez
+ United Kingdom;Light Heavyweight Bout;Dominick Reyes
+ United Kingdom;Middleweight Bout;Jack Marshman
+ United Kingdom;Bantamweight Bout;Nathaniel Wood
+ United Kingdom;Lightweight Bout;Marc Diakiese
+ United Kingdom;Featherweight Bout;Arnold Allen
+ United Kingdom;Welterweight Bout;Claudio Silva
+ United Kingdom;Welterweight Bout;Jorge Masvidal
+ United Kingdom;Welterweight Bout;Leon Edwards
+ United Kingdom;Featherweight Bout;Dan Ige
+ United Kingdom;Women's Flyweight Bout;Molly McCann
+ United Kingdom;Light Heavyweight Bout;Saparbeg Safarov
+ United Kingdom;Featherweight Bout;Mike Grundy
+ USA;Welterweight Bout;Elizeu Zaleski dos Santos
+ USA;Heavyweight Bout;Junior Dos Santos
+ USA;Welterweight Bout;Anthony Rocco Martin
+ USA;Lightweight Bout;Alex White
+ USA;Bantamweight Bout;Matt Schnell
+ USA;Welterweight Bout;Ben Askren
+ USA;Women's Strawweight Bout;Zhang Weili
+ USA;Featherweight Bout;Zabit Magomedsharipov
+ USA;Bantamweight Bout;Cody Stamann
+ USA;Featherweight Bout;Kron Gracie
+ USA;Women's Strawweight Bout;Cynthia Calvillo
+ USA;Lightweight Bout;Paul Felder
+ USA;Bantamweight Bout;Manny Bermudez
+ USA;Women's Strawweight Bout;Emily Whitmire
+ USA;Lightweight Bout;Nik Lentz
+ USA;Bantamweight Bout;Luke Sanders
+ Australia;Bantamweight Bout;Ricky Simon
+ Australia;Featherweight Bout;Shane Young
+ Australia;Women's Flyweight Bout;Montana De La Rosa
+ Australia;Light Heavyweight Bout;Jimmy Crute
+ Australia;Lightweight Bout;Lando Vannata
+ Australia;Lightweight Bout;Devonte Smith
+ Australia;Middleweight Bout;Israel Adesanya
+ Australia;Flyweight Bout;Kai Kara-France
+ Australia;Lightweight Bout;Jalin Turner
+ Australia;Bantamweight Bout;Jonathan Martinez
+ Australia;Bantamweight Bout;Kyung Ho Kang
+ Brazil;Welterweight Bout;Demian Maia
+ Brazil;Bantamweight Bout;Marlon Moraes
+ Brazil;Light Heavyweight Bout;Johnny Walker
+ Brazil;Women's Flyweight Bout;Mara Romero Borella
+ Brazil;Featherweight Bout;Jose Aldo
+ Brazil;Middleweight Bout;Markus Perez
+ Brazil;Women's Strawweight Bout;Livinha Souza
+ Brazil;Heavyweight Bout;Jairzinho Rozenstruik
+ Brazil;Welterweight Bout;Thiago Alves
+ Brazil;Bantamweight Bout;Said Nurmagomedov
+ Brazil;Featherweight Bout;Geraldo de Freitas
+ Brazil;Flyweight Bout;Rogerio Bontorin
+ USA;UFC Flyweight Title Bout;Henry Cejudo
+ USA;Lightweight Bout;Donald Cerrone
+ USA;Women's Flyweight Bout;Joanne Calderwood
+ USA;Lightweight Bout;Gregor Gillespie
+ USA;Heavyweight Bout;Allen Crowder
+ USA;Women's Flyweight Bout;Paige VanZant
+ USA;Lightweight Bout;Dennis Bermudez
+ USA;Featherweight Bout;Alexander Volkanovski
+ USA;Bantamweight Bout;Nathaniel Wood
+ USA;Lightweight Bout;Ryan Hall
+ USA;Welterweight Bout;Curtis Millender
+ USA;Welterweight Bout;Zak Ottow
+ USA;Lightweight Bout;Al Iaquinta
+ USA;Lightweight Bout;Edson Barboza
+ USA;Lightweight Bout;Joaquim Silva
+ USA;Heavyweight Bout;Juan Adams
+ Canada;Welterweight Bout;Gunnar Nelson
+ Canada;Women's Strawweight Bout;Nina Ansaroff
+ Canada;Lightweight Bout;Gilbert Burns
+ Canada;UFC Women's Flyweight Title Bout;Valentina Shevchenko
+ Canada;Women's Flyweight Bout;Jessica Eye
+ Canada;Light Heavyweight Bout;Thiago Santos
+ Canada;Middleweight Bout;Elias Theodorou
+ Canada;Bantamweight Bout;Brad Katona
+ Canada;Lightweight Bout;Diego Ferreira
+ Canada;Light Heavyweight Bout;Aleksandar Rakic
+ Canada;Welterweight Bout;Dhiego Lima
+ Australia;Heavyweight Bout;Justin Willis
+ Australia;Flyweight Bout;Wilson Reis
+ Australia;Featherweight Bout;Sodiq Yusuff
+ Australia;Welterweight Bout;Aleksei Kunchenko
+ Australia;Welterweight Bout;Anthony Rocco Martin
+ Australia;Heavyweight Bout;Junior Dos Santos
+ Australia;Light Heavyweight Bout;Mauricio Rua
+ Australia;Lightweight Bout;Damir Ismagulov
+ Australia;Welterweight Bout;Keita Nakamura
+ Australia;Lightweight Bout;Christos Giagos
+ USA;Ultimate Fighter 28 Heavyweight Tournament Title Bout;Juan Espino
+ USA;Welterweight Bout;Kamaru Usman
+ USA;Ultimate Fighter 28 Women's Featherweight Tournament Title Bout;Macy Chiasson
+ USA;Women's Featherweight Bout;Leah Letson
+ Argentina;Welterweight Bout;Michel Prazeres
+ Argentina;Bantamweight Bout;Marlon Vera
+ Argentina;Light Heavyweight Bout;Johnny Walker
+ Argentina;Women's Strawweight Bout;Cynthia Calvillo
+ Argentina;Middleweight Bout;Ian Heinisch
+ Argentina;Flyweight Bout;Alexandre Pantoja
+ Argentina;Welterweight Bout;Santiago Ponzinibbio
+ Argentina;Featherweight Bout;Ricardo Lamas
+ Argentina;Lightweight Bout;Jesus Pinedo
+ Argentina;Featherweight Bout;Austin Arnett
+ Argentina;Featherweight Bout;Nad Narimani
+ Argentina;Welterweight Bout;Laureano Staropoli
+ USA;Women's Strawweight Bout;Maycee Barber
+ USA;Lightweight Bout;Michael Trizano
+ USA;Featherweight Bout;
+ USA;Welterweight Bout;Donald Cerrone
+ USA;Lightweight Bout;Devonte Smith
+ USA;Flyweight Bout;Eric Shelton
+ USA;Bantamweight Bout;Mark De La Rosa
+ USA;Featherweight Bout;Jordan Rinaldi
+ USA;Middleweight Bout;Jared Cannonier
+ USA;UFC Heavyweight Title Bout;Daniel Cormier
+ USA;Middleweight Bout;Israel Adesanya
+ USA;Featherweight Bout;Sheymon Moraes
+ USA;Women's Flyweight Bout;Sijara Eubanks
+ USA;Middleweight Bout;Jacare Souza
+ USA;Heavyweight Bout;Marcos Rogerio de Lima
+ Canada;Light Heavyweight Bout;Gian Villante
+ Canada;Welterweight Bout;Sean Strickland
+ Canada;Welterweight Bout;Court McGee
+ Canada;Featherweight Bout;Michael Johnson
+ Canada;Light Heavyweight Bout;Anthony Smith
+ Canada;Lightweight Bout;Nasrat Haqparast
+ Canada;Bantamweight Bout;Andre Soukhamthath
+ Canada;Featherweight Bout;Calvin Kattar
+ Canada;Women's Bantamweight Bout;Talita Bernardo
+ Canada;Lightweight Bout;Don Madge
+ Canada;Lightweight Bout;Stevie Ray
+ USA;UFC Lightweight Title Bout;Khabib Nurmagomedov
+ Brazil;Welterweight Bout;Alex Oliveira
+ Brazil;Women's Strawweight Bout;
+ Brazil;Light Heavyweight Bout;Rogerio Nogueira
+ Brazil;Light Heavyweight Bout;Thiago Santos
+ Brazil;Bantamweight Bout;Andre Ewell
+ Brazil;Welterweight Bout;Sergio Moraes
+ Brazil;Women's Flyweight Bout;Mayra Bueno Silva
+ Brazil;Heavyweight Bout;Augusto Sakai
+ Brazil;Middleweight Bout;Thales Leites
+ Russia;Lightweight Bout;Rustam Khabilov
+ Russia;Welterweight Bout;Aleksei Kunchenko
+ Russia;Light Heavyweight Bout;Jan Blachowicz
+ Russia;Middleweight Bout;Khalid Murtazaliev
+ Russia;Heavyweight Bout;Aleksei Oleinik
+ Russia;Bantamweight Bout;Petr Yan
+ Russia;Lightweight Bout;Mairbek Taisumov
+ Russia;Middleweight Bout;Jordan Johnson
+ Russia;Welterweight Bout;Ramazan Emeev
+ Russia;Bantamweight Bout;Merab Dvalishvili
+ USA;Bantamweight Bout;Jimmie Rivera
+ USA;Women's Strawweight Bout;Jessica Andrade
+ USA;Welterweight Bout;Abdul Razak Alhassan
+ USA;UFC Welterweight Title Bout;Tyron Woodley
+ USA;Flyweight Bout;Jarred Brooks
+ USA;Women's Strawweight Bout;Cortney Casey
+ USA;Welterweight Bout;James Krause
+ USA;Featherweight Bout;Michael Johnson
+ USA;Middleweight Bout;Thiago Santos
+ USA;UFC Bantamweight Title Bout;TJ Dillashaw
+ USA;Women's Strawweight Bout;JJ Aldrich
+ USA;Featherweight Bout;Renato Moicano
+ Canada;Lightweight Bout;Islam Makhachev
+ Canada;Women's Strawweight Bout;Joanna Jedrzejczyk
+ Canada;Lightweight Bout;Alexander Hernandez
+ Canada;Light Heavyweight Bout;Ion Cutelaba
+ Canada;Lightweight Bout;Dustin Poirier
+ Canada;Featherweight Bout;Jose Aldo
+ Canada;Welterweight Bout;Jordan Mein
+ Canada;Flyweight Bout;Dustin Ortiz
+ Canada;Women's Flyweight Bout;Katlyn Chookagian
+ Canada;Lightweight Bout;Devin Powell
+ Canada;Lightweight Bout;John Makdessi
+ Germany;Light Heavyweight Bout;Anthony Smith
+ Germany;Light Heavyweight Bout;Corey Anderson
+ Germany;Welterweight Bout;Bartosz Fabinski
+ Germany;Middleweight Bout;Abu Azaitar
+ Germany;Welterweight Bout;Danny Roberts
+ Germany;Lightweight Bout;Nasrat Haqparast
+ Germany;Lightweight Bout;Damir Hadzovic
+ Germany;Heavyweight Bout;Marcin Tybura
+ Germany;Bantamweight Bout;Manny Bermudez
+ Germany;Featherweight Bout;Nad Narimani
+ Germany;Light Heavyweight Bout;Aleksandar Rakic
+ Germany;Light Heavyweight Bout;Darko Stosic
+ Germany;Bantamweight Bout;Pingyuan Liu
+ USA;Featherweight Bout;Chad Mendes
+ USA;Welterweight Bout;Sage Northcutt
+ USA;Women's Bantamweight Bout;Cat Zingano
+ USA;Featherweight Bout;Rick Glenn
+ USA;Bantamweight Bout;Alejandro Perez
+ USA;Featherweight Bout;Raoni Barcelos
+ USA;Flyweight Bout;Mark De La Rosa
+ USA;Flyweight Bout;Said Nurmagomedov
+ USA;Women's Strawweight Bout;Jessica Aguilar
+ USA;Women's Flyweight Bout;Liz Carmouche
+ USA;Bantamweight Bout;Raphael Assuncao
+ USA;Lightweight Bout;Anthony Pettis
+ USA;Ultimate Fighter 27 Featherweight Tournament Title Bout;Brad Katona
+ USA;Ultimate Fighter 27 Lightweight Tournament Title Bout;Michael Trizano
+ USA;Middleweight Bout;Alessio Di Chirico
+ USA;Lightweight Bout;John Gunther
+ USA;Featherweight Bout;Steven Peterson
+ USA;Featherweight Bout;Mirsad Bektic
+ USA;UFC Interim Welterweight Title Bout;Colby Covington
+ USA;Middleweight Bout;Robert Whittaker
+ USA;Women's Featherweight Bout;Holly Holm
+ USA;Heavyweight Bout;Chris de la Rocha
+ USA;Flyweight Bout;Sergio Pettis
+ USA;Welterweight Bout;Ben Saunders
+ USA;Lightweight Bout;David Teymur
+ USA;Light Heavyweight Bout;Sam Alvey
+ USA;Flyweight Bout;Jose Torres
+ United Kingdom;Welterweight Bout;Neil Magny
+ United Kingdom;Featherweight Bout;Makwan Amirkhani
+ United Kingdom;Women's Bantamweight Bout;Lina Lansberg
+ United Kingdom;Middleweight Bout;Darren Stewart
+ United Kingdom;Welterweight Bout;Darren Till
+ United Kingdom;Middleweight Bout;Tom Breese
+ United Kingdom;Welterweight Bout;Carlo Pedersoli Jr.
+ United Kingdom;Women's Flyweight Bout;Gillian Robertson
+ United Kingdom;Middleweight Bout;Elias Theodorou
+ Brazil;Lightweight Bout;Davi Ramos
+ Brazil;Middleweight Bout;Kelvin Gastelum
+ Brazil;UFC Women's Bantamweight Title Bout;Amanda Nunes
+ Brazil;Middleweight Bout;Cezar Ferreira
+ Brazil;Women's Strawweight Bout;Mackenzie Dern
+ Brazil;Bantamweight Bout;John Lineker
+ Brazil;Middleweight Bout;Lyoto Machida
+ Brazil;Heavyweight Bout;Aleksei Oleinik
+ Brazil;Welterweight Bout;Ramazan Emeev
+ Brazil;Middleweight Bout;Jack Hermansson
+ USA;Heavyweight Bout;Justin Willis
+ USA;Featherweight Bout;Frankie Edgar
+ USA;Middleweight Bout;David Branch
+ USA;Welterweight Bout;Ryan LaFlare
+ USA;Welterweight Bout;Siyar Bahadurzada
+ USA;Flyweight Bout;John Moraga
+ USA;Middleweight Bout;Brad Tavares
+ USA;Welterweight Bout;Muslim Salikhov
+ USA;Middleweight Bout;Antonio Carlos Junior
+ USA;Women's Flyweight Bout;Lauren Mueller
+ USA;Welterweight Bout;Yushin Okami
+ USA;Heavyweight Bout;Adam Wieczorek
+ USA;Women's Strawweight Bout;Karolina Kowalkiewicz
+ USA;Lightweight Bout;Chris Gruetzemacher
+ USA;UFC Women's Strawweight Title Bout;Rose Namajunas
+ USA;Women's Flyweight Bout;Ashlee Evans-Smith
+ USA;Lightweight Bout;Olivier Aubin-Mercier
+ United Kingdom;Welterweight Bout;Danny Roberts
+ United Kingdom;Middleweight Bout;Charles Byrd
+ United Kingdom;Bantamweight Bout;Tom Duquesnoy
+ United Kingdom;Light Heavyweight Bout;Paul Craig
+ United Kingdom;Light Heavyweight Bout;Jan Blachowicz
+ United Kingdom;Heavyweight Bout;Alexander Volkov
+ United Kingdom;Featherweight Bout;Danny Henry
+ United Kingdom;Lightweight Bout;Kajan Johnson
+ United Kingdom;Heavyweight Bout;Dmitry Sosnovskiy
+ USA;Featherweight Bout;Brian Ortega
+ USA;UFC Women's Featherweight Title Bout;Cristiane Justino
+ USA;Women's Bantamweight Bout;Ketlen Vieira
+ USA;Middleweight Bout;CB Dollaway
+ USA;Light Heavyweight Bout;Jordan Johnson
+ USA;Featherweight Bout;Jeremy Stephens
+ USA;Women's Bantamweight Bout;Marion Reneau
+ USA;Light Heavyweight Bout;Ilir Latifi
+ USA;Featherweight Bout;Brandon Davis
+ USA;Lightweight Bout;Sage Northcutt
+ USA;Lightweight Bout;James Vick
+ USA;Middleweight Bout;Oskar Piechota
+ USA;Flyweight Bout;Robert Sanchez
+ USA;Women's Bantamweight Bout;Lucie Pudilova
+ Australia;Featherweight Bout;Alexander Volkanovski
+ Australia;Heavyweight Bout;Curtis Blaydes
+ Australia;Light Heavyweight Bout;Tyson Pedro
+ Australia;Lightweight Bout;Dong Hyun Ma
+ Australia;Heavyweight Bout;Tai Tuivasa
+ Australia;UFC Interim Middleweight Title Bout;Yoel Romero
+ Australia;Welterweight Bout;Luke Jumeau
+ Australia;Lightweight Bout;Ross Pearson
+ Australia;Bantamweight Bout;Jose Quinonez
+ Australia;Flyweight Bout;Jussier Formiga
+ Brazil;Heavyweight Bout;Timothy Johnson
+ Brazil;Lightweight Bout;Michel Prazeres
+ Brazil;Middleweight Bout;Thiago Santos
+ Brazil;Women's Flyweight Bout;Valentina Shevchenko
+ Brazil;Bantamweight Bout;Douglas Silva de Andrade
+ Brazil;Lightweight Bout;Alan Patrick
+ Brazil;Women's Strawweight Bout;Polyana Viana
+ Brazil;Bantamweight Bout;Iuri Alcantara
+ Brazil;Flyweight Bout;Deiveson Figueiredo
+ USA;Welterweight Bout;Drew Dober
+ USA;Women's Flyweight Bout;Ji Yeon Kim
+ USA;Featherweight Bout;Cory Sandhagen
+ USA;Light Heavyweight Bout;Gian Villante
+ USA;Flyweight Bout;Dustin Ortiz
+ USA;UFC Light Heavyweight Title Bout;Daniel Cormier
+ USA;Featherweight Bout;Kyle Bochniak
+ USA;Featherweight Bout;Enrique Barzola
+ USA;Lightweight Bout;Marco Polo Reyes
+ USA;Lightweight Bout;James Krause
+ USA;Women's Flyweight Bout;Jessica-Rose Clark
+ USA;Featherweight Bout;Mads Burnell
+ USA;Lightweight Bout;Khabib Nurmagomedov
+ USA;Featherweight Bout;Myles Jury
+ USA;Bantamweight Bout;Tim Elliott
+ Canada;Middleweight Bout;Julian Marquez
+ Canada;Featherweight Bout;Josh Emmett
+ Canada;Welterweight Bout;Chad Laprise
+ Canada;Welterweight Bout;Rafael Dos Anjos
+ Canada;Light Heavyweight Bout;Jan Blachowicz
+ Canada;Welterweight Bout;Santiago Ponzinibbio
+ Canada;Middleweight Bout;Alessio Di Chirico
+ USA;Bantamweight Bout;Andre Soukhamthath
+ USA;Featherweight Bout;Gabriel Benitez
+ USA;Women's Flyweight Bout;Alexis Davis
+ USA;Bantamweight Bout;Frankie Saenz
+ USA;Flyweight Bout;Henry Cejudo
+ USA;UFC Featherweight Title Bout;Max Holloway
+ USA;Welterweight Bout;Yancy Medeiros
+ USA;Lightweight Bout;Eddie Alvarez
+ USA;Women's Strawweight Bout;Amanda Cooper
+ USA;Women's Strawweight Bout;Felice Herrig
+ USA;Middleweight Bout;Ryan Janes
+ USA;UFC Women's Flyweight Title Bout;Nicco Montano
+ USA;Women's Flyweight Bout;Rachael Ostovich
+ China;Welterweight Bout;Alex Garcia
+ China;Middleweight Bout;Kelvin Gastelum
+ China;Featherweight Bout;Song Yadong
+ China;Featherweight Bout;Zabit Magomedsharipov
+ China;Women's Strawweight Bout;Yan Xiaonan
+ China;Featherweight Bout;Wang Guan
+ China;Women's Bantamweight Bout;Gina Mazany
+ China;Heavyweight Bout;Cyril Asker
+ China;Heavyweight Bout;Shamil Abdurakhimov
+ China;Featherweight Bout;Rolando Dy
+ Australia;Middleweight Bout;Elias Theodorou
+ Australia;Women's Flyweight Bout;Jessica-Rose Clark
+ Australia;Welterweight Bout;Belal Muhammad
+ Australia;Catch Weight Bout;Alexander Volkanovski
+ Australia;Flyweight Bout;Ryan Benoit
+ Australia;Heavyweight Bout;Fabricio Werdum
+ Australia;Lightweight Bout;Nik Lentz
+ Australia;Lightweight Bout;Frank Camacho
+ Australia;Flyweight Bout;Eric Shelton
+ Australia;Heavyweight Bout;Adam Wieczorek
+ Australia;Women's Strawweight Bout;Nadia Kassem
+ USA;Middleweight Bout;Cezar Ferreira
+ USA;Women's Strawweight Bout;Nina Ansaroff
+ USA;Welterweight Bout;Sean Strickland
+ USA;Light Heavyweight Bout;Jake Collier
+ USA;Heavyweight Bout;Mark Godbeer
+ USA;UFC Middleweight Title Bout;Georges St-Pierre
+ Brazil;Middleweight Bout;Antonio Carlos Junior
+ Brazil;Welterweight Bout;Vicente Luque
+ Brazil;Middleweight Bout;Derek Brunson
+ Brazil;Bantamweight Bout;Pedro Munhoz
+ Brazil;Welterweight Bout;Colby Covington
+ Brazil;Lightweight Bout;Jared Gordon
+ Brazil;Heavyweight Bout;Marcelo Golm
+ USA;Women's Flyweight Bout;Mara Romero Borella
+ USA;Heavyweight Bout;Fabricio Werdum
+ USA;UFC Flyweight Title Bout;Demetrious Johnson
+ USA;Women's Strawweight Bout;Poliana Botelho
+ USA;UFC Interim Lightweight Title Bout;Tony Ferguson
+ Japan;Lightweight Bout;Dong Hyun Ma
+ Japan;Featherweight Bout;Teruto Ishihara
+ Japan;Flyweight Bout;Jussier Formiga
+ Japan;Women's Strawweight Bout;Syuri Kondo
+ Japan;Women's Strawweight Bout;Jessica Andrade
+ Japan;Welterweight Bout;Keita Nakamura
+ Japan;Light Heavyweight Bout;Gokhan Saki
+ Japan;Light Heavyweight Bout;Ovince Saint Preux
+ Japan;Welterweight Bout;Shinsho Anzai
+ Japan;Welterweight Bout;Daichi Abe
+ USA;Middleweight Bout;Anthony Smith
+ USA;Heavyweight Bout;Daniel Spitz
+ USA;Middleweight Bout;Luke Rockhold
+ USA;Heavyweight Bout;Justin Ledet
+ Canada;Women's Bantamweight Bout;Ketlen Vieira
+ Canada;Light Heavyweight Bout;Ilir Latifi
+ Canada;Featherweight Bout;Rick Glenn
+ Canada;Flyweight Bout;Henry Cejudo
+ Canada;UFC Women's Bantamweight Title Bout;Amanda Nunes
+ Canada;Women's Bantamweight Bout;Sarah Moras
+ Canada;Featherweight Bout;Jeremy Stephens
+ Canada;Lightweight Bout;Alex White
+ Canada;Lightweight Bout;Kajan Johnson
+ Netherlands;Women's Bantamweight Bout;Marion Reneau
+ Netherlands;Welterweight Bout;Darren Till
+ Netherlands;Middleweight Bout;Siyar Bahadurzada
+ Netherlands;Lightweight Bout;Michel Prazeres
+ Netherlands;Lightweight Bout;Rustam Khabilov
+ Netherlands;Heavyweight Bout;Alexander Volkov
+ Netherlands;Welterweight Bout;Leon Edwards
+ Netherlands;Lightweight Bout;Mairbek Taisumov
+ Netherlands;Light Heavyweight Bout;Aleksandar Rakic
+ Netherlands;Featherweight Bout;Zabit Magomedsharipov
+ Netherlands;Lightweight Bout;Thibault Gouti
+ Netherlands;Light Heavyweight Bout;Abdul-Kerim Edilov
+ Mexico;Flyweight Bout;Dustin Ortiz
+ Mexico;Bantamweight Bout;Alejandro Perez
+ Mexico;Welterweight Bout;Niko Price
+ Mexico;Featherweight Bout;Humberto Bandenay
+ Mexico;Women's Strawweight Bout;Alexa Grasso
+ Mexico;Middleweight Bout;Jack Hermansson
+ Mexico;Middleweight Bout;Sam Alvey
+ Mexico;Bantamweight Bout;Rani Yahya
+ Mexico;Lightweight Bout;Jordan Rinaldi
+ Mexico;Flyweight Bout;Joseph Morales
+ USA;Light Heavyweight Bout;Volkan Oezdemir
+ USA;UFC Light Heavyweight Title Bout;
+ USA;Welterweight Bout;Robbie Lawler
+ USA;Catch Weight Bout;Aljamain Sterling
+ USA;Women's Strawweight Bout;Aleksandra Albu
+ USA;Light Heavyweight Bout;Patrick Cummins
+ USA;Featherweight Bout;Jeremy Kennedy
+ USA;Heavyweight Bout;Junior Albini
+ USA;Lightweight Bout;Chris Wade
+ United Kingdom;Women's Strawweight Bout;Cynthia Calvillo
+ United Kingdom;Heavyweight Bout;Justin Willis
+ United Kingdom;Flyweight Bout;Alexandre Pantoja
+ United Kingdom;Welterweight Bout;Santiago Ponzinibbio
+ United Kingdom;Light Heavyweight Bout;Khalil Rountree Jr.
+ United Kingdom;Lightweight Bout;Paul Felder
+ United Kingdom;Bantamweight Bout;Brett Johns
+ United Kingdom;Welterweight Bout;Galore Bofando
+ United Kingdom;Lightweight Bout;Danny Henry
+ United Kingdom;Women's Bantamweight Bout;Leslie Smith
+ USA;Welterweight Bout;Chad Laprise
+ USA;UFC Interim Middleweight Title Bout;Robert Whittaker
+ USA;Light Heavyweight Bout;Trevin Giles
+ USA;Light Heavyweight Bout;Jared Cannonier
+ USA;Ultimate Fighter 25 Welterweight Tournament Title Bout;Jesse Taylor
+ USA;Featherweight Bout;Gray Maynard
+ USA;Light Heavyweight Bout;CB Dollaway
+ USA;Featherweight Bout;Dennis Siver
+ USA;Middleweight Bout;Tim Boetsch
+ USA;Light Heavyweight Bout;Jeremy Kimball
+ USA;Lightweight Bout;Darrell Horcher
+ USA;Lightweight Bout;Anthony Rocco Martin
+ Brazil;Bantamweight Bout;Raphael Assuncao
+ Brazil;Middleweight Bout;Paulo Costa
+ Brazil;UFC Featherweight Title Bout;Max Holloway
+ Brazil;Middleweight Bout;Vitor Belfort
+ Brazil;Bantamweight Bout;Matthew Lopez
+ Brazil;Welterweight Bout;Yancy Medeiros
+ Brazil;Women's Strawweight Bout;Claudia Gadelha
+ Brazil;Women's Strawweight Bout;Viviane Pereira
+ Brazil;Bantamweight Bout;Brian Kelleher
+ Brazil;Welterweight Bout;Luan Chagas
+ USA;Featherweight Bout;Jason Knight
+ USA;UFC Women's Strawweight Title Bout;Joanna Jedrzejczyk
+ USA;Light Heavyweight Bout;Gadzhimurad Antigulov
+ USA;Middleweight Bout;Thales Leites
+ USA;Lightweight Bout;Stevie Ray
+ USA;Flyweight Bout;Hector Sandoval
+ USA;Women's Strawweight Bout;Danielle Taylor
+ USA;Bantamweight Bout;Tom Duquesnoy
+ USA;Women's Strawweight Bout;Rose Namajunas
+ USA;Lightweight Bout;Rashid Magomedov
+ USA;Welterweight Bout;Zak Cummings
+ USA;Middleweight Bout;Gegard Mousasi
+ USA;Welterweight Bout;Thiago Alves
+ USA;Flyweight Bout;Bibulatov Magomed
+ USA;Women's Bantamweight Bout;Katlyn Chookagian
+ United Kingdom;Heavyweight Bout;Timothy Johnson
+ United Kingdom;Light Heavyweight Bout;Francimar Barroso
+ United Kingdom;Welterweight Bout;Gunnar Nelson
+ United Kingdom;Light Heavyweight Bout;Jimi Manuwa
+ United Kingdom;Lightweight Bout;Joe Duffy
+ United Kingdom;Catch Weight Bout;Marlon Vera
+ United Kingdom;Middleweight Bout;Brad Scott
+ Brazil;Women's Bantamweight Bout;
+ Brazil;Middleweight Bout;
+ Brazil;Lightweight Bout;Edson Barboza
+ Brazil;Light Heavyweight Bout;Mauricio Rua
+ Brazil;Lightweight Bout;Kevin Lee
+ Brazil;Flyweight Bout;Ray Borg
+ Brazil;Bantamweight Bout;Joe Soto
+ Brazil;Featherweight Bout;Jeremy Kennedy
+ USA;Middleweight Bout;Daniel Kelly
+ USA;Bantamweight Bout;Iuri Alcantara
+ USA;Bantamweight Bout;Albert Morales
+ USA;Light Heavyweight Bout;Tyson Pedro
+ Canada;Heavyweight Bout;Derrick Lewis
+ Canada;Women's Strawweight Bout;Randa Markos
+ Canada;Women's Bantamweight Bout;Sara McMann
+ Canada;Middleweight Bout;Johny Hendricks
+ Canada;Lightweight Bout;Paul Felder
+ Canada;Middleweight Bout;Thiago Santos
+ Canada;Middleweight Bout;Gerald Meerschaert
+ Canada;Bantamweight Bout;Aiemann Zahabi
+ USA;UFC Women's Featherweight Title Bout;Germaine de Randamie
+ USA;Flyweight Bout;Wilson Reis
+ USA;Middleweight Bout;Anderson Silva
+ USA;Featherweight Bout;Chas Skelly
+ USA;Heavyweight Bout;Marcel Fortuna
+ USA;Welterweight Bout;Li Jingliang
+ USA;Middleweight Bout;Sam Alvey
+ USA;Women's Bantamweight Bout;Valentina Shevchenko
+ USA;Middleweight Bout;Eric Spicely
+ USA;Light Heavyweight Bout;Marcos Rogerio de Lima
+ USA;Lightweight Bout;Jason Gonzalez
+ USA;Bantamweight Bout;Augusto Mendes
+ USA;Light Heavyweight Bout;Joachim Christensen
+ USA;Heavyweight Bout;Cyril Asker
+ USA;Welterweight Bout;Dong Hyun Kim
+ USA;Bantamweight Bout;TJ Dillashaw
+ USA;Welterweight Bout;Alex Garcia
+ USA;UFC Bantamweight Title Bout;Cody Garbrandt
+ USA;Featherweight Bout;Mizuto Hirota
+ USA;Lightweight Bout;Josh Emmett
+ USA;Women's Bantamweight Bout;Leslie Smith
+ USA;Welterweight Bout;Sultan Aliev
+ Canada;Welterweight Bout;Donald Cerrone
+ Canada;Featherweight Bout;Cub Swanson
+ Canada;Welterweight Bout;Emil Meek
+ Canada;UFC Interim Featherweight Title Bout;Max Holloway
+ Canada;Women's Strawweight Bout;Viviane Pereira
+ Canada;Lightweight Bout;Olivier Aubin-Mercier
+ Canada;Middleweight Bout;Kelvin Gastelum
+ Canada;Bantamweight Bout;Matthew Lopez
+ Canada;Lightweight Bout;Lando Vannata
+ Canada;Lightweight Bout;Rustam Khabilov
+ USA;Women's Strawweight Bout;Justine Kish
+ USA;Lightweight Bout;Marc Diakiese
+ USA;Women's Strawweight Bout;Juliana Lima
+ USA;Women's Strawweight Bout;Jamie Moyle
+ USA;Lightweight Bout;Dong Hyun Ma
+ Australia;Middleweight Bout;Daniel Kelly
+ Australia;Welterweight Bout;Omari Akhmedov
+ Australia;Lightweight Bout;Alexander Volkanovski
+ Australia;Lightweight Bout;Damien Brown
+ Australia;Lightweight Bout;Andrew Holbrook
+ Australia;Women's Strawweight Bout;Danielle Taylor
+ Australia;Middleweight Bout;Robert Whittaker
+ Australia;Welterweight Bout;Jonathan Meunier
+ Australia;Featherweight Bout;Jason Knight
+ Australia;Featherweight Bout;Marlon Vera
+ Australia;Flyweight Bout;Ben Nguyen
+ Australia;Flyweight Bout;Jenel Lausa
+ Brazil;Light Heavyweight Bout;Gadzhimurad Antigulov
+ Brazil;Bantamweight Bout;Thomas Almeida
+ Brazil;Welterweight Bout;Kamaru Usman
+ Brazil;Middleweight Bout;Krzysztof Jotko
+ Brazil;Light Heavyweight Bout;Ryan Bader
+ Brazil;Heavyweight Bout;Luis Henrique
+ Brazil;Bantamweight Bout;Johnny Eduardo
+ United Kingdom;Lightweight Bout;Kevin Lee
+ United Kingdom;Featherweight Bout;Artem Lobov
+ United Kingdom;Flyweight Bout;Kyoji Horiguchi
+ United Kingdom;Lightweight Bout;Stevie Ray
+ United Kingdom;Women's Strawweight Bout;Amanda Cooper
+ United Kingdom;Middleweight Bout;Gegard Mousasi
+ United Kingdom;Welterweight Bout;Zak Cummings
+ United Kingdom;Women's Bantamweight Bout;Marion Reneau
+ United Kingdom;Heavyweight Bout;Justin Ledet
+ United Kingdom;Welterweight Bout;Abdul Razak Alhassan
+ USA;UFC Welterweight Title Bout;
+ USA;Middleweight Bout;Yoel Romero
+ USA;UFC Lightweight Title Bout;Conor McGregor
+ USA;Women's Bantamweight Bout;Liz Carmouche
+ Mexico;Catch Weight Bout;Joe Soto
+ Mexico;Featherweight Bout;Ricardo Lamas
+ Mexico;Lightweight Bout;Beneil Dariush
+ Mexico;Ultimate Fighter Latin America 3 Lightweight Tournament Title Bout;Martin Bravo
+ Mexico;Lightweight Bout;Diego Sanchez
+ Mexico;Lightweight Bout;Tony Ferguson
+ Mexico;Bantamweight Bout;Erik Perez
+ Mexico;Welterweight Bout;Max Griffin
+ Mexico;Bantamweight Bout;Douglas Silva de Andrade
+ Mexico;Lightweight Bout;Marco Polo Reyes
+ Mexico;Featherweight Bout;Enrique Barzola
+ United Kingdom;Bantamweight Bout;Iuri Alcantara
+ United Kingdom;Bantamweight Bout;Damian Stasiak
+ United Kingdom;UFC Middleweight Title Bout;Michael Bisping
+ United Kingdom;Featherweight Bout;Mirsad Bektic
+ United Kingdom;Heavyweight Bout;Stefan Struve
+ United Kingdom;Lightweight Bout;Leonardo Santos
+ United Kingdom;Welterweight Bout;Mike Perry
+ USA;Heavyweight Bout;Shamil Abdurakhimov
+ USA;Light Heavyweight Bout;Henrique da Silva
+ USA;Lightweight Bout;Alex Oliveira
+ USA;Bantamweight Bout;John Lineker
+ USA;Middleweight Bout;Nate Marquardt
+ USA;Light Heavyweight Bout;Ion Cutelaba
+ Brazil;Bantamweight Bout;Rani Yahya
+ Brazil;Featherweight Bout;Renan Barao
+ Brazil;Middleweight Bout;Eric Spicely
+ Brazil;Featherweight Bout;Godofredo Pepey
+ Brazil;Heavyweight Bout;Roy Nelson
+ Brazil;Catch Weight Bout;Cristiane Justino
+ Brazil;Flyweight Bout;Jussier Formiga
+ Brazil;Welterweight Bout;Erick Silva
+ Brazil;Lightweight Bout;Gregor Gillespie
+ USA;Lightweight Bout;Michael Johnson
+ USA;Lightweight Bout;Evan Dunham
+ USA;Welterweight Bout;Roan Carneiro
+ USA;Bantamweight Bout;Jose Quinonez
+ USA;Women's Bantamweight Bout;Bethe Correia
+ Germany;Light Heavyweight Bout;Ryan Bader
+ Germany;Welterweight Bout;Peter Sobotta
+ Germany;Women's Bantamweight Bout;Ashlee Evans-Smith
+ Germany;Bantamweight Bout;Taylor Lapilus
+ Germany;Lightweight Bout;Nick Hein
+ Germany;Heavyweight Bout;Josh Barnett
+ Germany;Welterweight Bout;Jessin Ayari
+ Germany;Light Heavyweight Bout;Alexander Gustafsson
+ Germany;Heavyweight Bout;
+ Germany;Middleweight Bout;Jack Hermansson
+ Germany;Lightweight Bout;Rustam Khabilov
+ Canada;Middleweight Bout;Sam Alvey
+ Canada;Featherweight Bout;Anthony Pettis
+ Canada;Lightweight Bout;Jim Miller
+ Canada;Lightweight Bout;Felipe Silva
+ Canada;Welterweight Bout;Demian Maia
+ Canada;Featherweight Bout;Kyle Bochniak
+ Canada;Women's Strawweight Bout;Paige VanZant
+ Canada;Lightweight Bout;Chad Laprise
+ Canada;Lightweight Bout;Jeremy Kennedy
+ USA;Featherweight Bout;Artem Lobov
+ USA;Light Heavyweight Bout;Anthony Johnson
+ USA;Welterweight Bout;Lorenz Larkin
+ USA;Welterweight Bout;Court McGee
+ USA;Middleweight Bout;Trevor Smith
+ USA;Welterweight Bout;Santiago Ponzinibbio
+ USA;Featherweight Bout;Dennis Bermudez
+ USA;Women's Strawweight Bout;Maryna Moroz
+ USA;Featherweight Bout;Teruto Ishihara
+ USA;Flyweight Bout;Ryan Benoit
+ USA;Bantamweight Bout;Erik Perez
+ USA;Welterweight Bout;Jake Ellenberger
+ USA;Heavyweight Bout;Anthony Hamilton
+ USA;Lightweight Bout;Damien Brown
+ USA;Lightweight Bout;Michel Prazeres
+ USA;Heavyweight Bout;Luis Henrique
+ USA;Flyweight Bout;Louis Smolka
+ USA;Welterweight Bout;Keita Nakamura
+ USA;Heavyweight Bout;Daniel Omielanczuk
+ USA;Middleweight Bout;Alex Nicholson
+ USA;UFC Interim Featherweight Title Bout;Jose Aldo
+ USA;Heavyweight Bout;Cain Velasquez
+ USA;Light Heavyweight Bout;Daniel Cormier
+ USA;Welterweight Bout;Kelvin Gastelum
+ USA;Ultimate Fighter 23 Light Heavyweight Tournament Title Bout;Andrew Sanchez
+ USA;Lightweight Bout;Will Brooks
+ USA;Ultimate Fighter 23 Women's Strawweight Tournament Title Bout;Tatiana Suarez
+ USA;Featherweight Bout;Dooho Choi
+ USA;Light Heavyweight Bout;Josh Stansbury
+ USA;UFC Lightweight Title Bout;Eddie Alvarez
+ USA;Lightweight Bout;Joe Duffy
+ USA;Welterweight Bout;Alberto Mina
+ USA;Bantamweight Bout;Anthony Birchak
+ USA;Bantamweight Bout;Felipe Arantes
+ USA;Bantamweight Bout;Marco Beltran
+ Canada;Women's Flyweight Bout;Joanne Calderwood
+ Canada;Welterweight Bout;Stephen Thompson
+ Canada;Light Heavyweight Bout;Steve Bosse
+ Canada;Lightweight Bout;Jason Saggo
+ Canada;Bantamweight Bout;Joe Soto
+ Canada;Welterweight Bout;Colby Covington
+ Canada;Flyweight Bout;Ali Bagautinov
+ USA;UFC Middleweight Title Bout;Michael Bisping
+ USA;Featherweight Bout;Max Holloway
+ USA;Middleweight Bout;Dan Henderson
+ USA;UFC Bantamweight Title Bout;Dominick Cruz
+ USA;Middleweight Bout;Chris Camozzi
+ USA;Welterweight Bout;Rick Story
+ USA;Lightweight Bout;Abel Trujillo
+ USA;Middleweight Bout;Jake Collier
+ USA;Lightweight Bout;Erik Koch
+ USA;Bantamweight Bout;Bryan Caraway
+ USA;Heavyweight Bout;Adam Milstead
+ Brazil;UFC Heavyweight Title Bout;Stipe Miocic
+ Brazil;Middleweight Bout;Jacare Souza
+ Brazil;Welterweight Bout;Bryan Barberena
+ Brazil;Welterweight Bout;
+ Brazil;Featherweight Bout;Renato Moicano
+ Netherlands;Heavyweight Bout;Stefan Struve
+ Netherlands;Welterweight Bout;Gunnar Nelson
+ Netherlands;Heavyweight Bout;Alistair Overeem
+ Netherlands;Light Heavyweight Bout;Nikita Krylov
+ Netherlands;Women's Strawweight Bout;Karolina Kowalkiewicz
+ Netherlands;Women's Bantamweight Bout;Germaine de Randamie
+ Netherlands;Middleweight Bout;Magnus Cedenblad
+ Netherlands;Lightweight Bout;Josh Emmett
+ Netherlands;Flyweight Bout;Kyoji Horiguchi
+ Netherlands;Lightweight Bout;Reza Madadi
+ Netherlands;Flyweight Bout;Yuta Sasaki
+ USA;Welterweight Bout;Danny Roberts
+ USA;UFC Interim Light Heavyweight Title Bout;Jon Jones
+ USA;Lightweight Bout;Michael Chiesa
+ USA;Welterweight Bout;Michael Graves
+ USA;Catch Weight Bout;Khabib Nurmagomedov
+ Australia;Heavyweight Bout;Mark Hunt
+ Australia;Welterweight Bout;Neil Magny
+ Australia;Women's Strawweight Bout;Bec Rawlings
+ Australia;Lightweight Bout;Jake Matthews
+ Australia;Light Heavyweight Bout;Steve Bosse
+ Australia;Featherweight Bout;Dan Hooker
+ Australia;Welterweight Bout;Alan Jouban
+ Australia;Women's Bantamweight Bout;Leslie Smith
+ Australia;Welterweight Bout;Viscardi Andrade
+ Australia;Lightweight Bout;Alan Patrick
+ USA;Middleweight Bout;Vitor Miranda
+ USA;Women's Bantamweight Bout;Amanda Nunes
+ USA;Welterweight Bout;Nordine Taleb
+ USA;UFC Women's Bantamweight Title Bout;Miesha Tate
+ USA;Lightweight Bout;Jason Saggo
+ USA;Lightweight Bout;Diego Sanchez
+ United Kingdom;Middleweight Bout;Scott Askham
+ United Kingdom;Welterweight Bout;Tom Breese
+ United Kingdom;Middleweight Bout;Michael Bisping
+ United Kingdom;Bantamweight Bout;Davey Grant
+ United Kingdom;Bantamweight Bout;Brad Pickett
+ United Kingdom;Lightweight Bout;Rustam Khabilov
+ United Kingdom;Lightweight Bout;Teemu Packalen
+ United Kingdom;Middleweight Bout;Krzysztof Jotko
+ United Kingdom;Lightweight Bout;David Teymur
+ United Kingdom;Heavyweight Bout;Daniel Omielanczuk
+ USA;Catch Weight Bout;Cody Garbrandt
+ USA;Middleweight Bout;Oluwale Bamgbose
+ USA;Women's Bantamweight Bout;Ashlee Evans-Smith
+ USA;Women's Bantamweight Bout;Lauren Murphy
+ USA;Welterweight Bout;Nathan Coy
+ USA;Welterweight Bout;Mike Pyle
+ USA;Light Heavyweight Bout;Misha Cirkunov
+ USA;Lightweight Bout;Joshua Burkman
+ USA;Heavyweight Bout;Roy Nelson
+ USA;Featherweight Bout;Diego Rivas
+ USA;Flyweight Bout;Justin Scoggins
+ USA;Featherweight Bout;Alex White
+ USA;Welterweight Bout;Tarec Saffiedine
+ USA;Middleweight Bout;Rafael Natal
+ USA;Welterweight Bout;Alexander Yakovlev
+ USA;Featherweight Bout;Luke Sanders
+ USA;Welterweight Bout;Patrick Cote
+ USA;Lightweight Bout;Francisco Trinaldo
+ USA;Heavyweight Bout;Travis Browne
+ USA;Light Heavyweight Bout;Francimar Barroso
+ USA;Welterweight Bout;Albert Tumenov
+ USA;Heavyweight Bout;Stipe Miocic
+ USA;Bantamweight Bout;Michael McDonald
+ USA;Bantamweight Bout;Michinori Tanaka
+ USA;UFC Welterweight Title Bout;Robbie Lawler
+ USA;Welterweight Bout;Sheldon Westcott
+ USA;UFC Lightweight Title Bout;Rafael Dos Anjos
+ USA;Featherweight Bout;Charles Oliveira
+ USA;Middleweight Bout;Tamdan McCrory
+ USA;Lightweight Bout;Nate Diaz
+ USA;Welterweight Bout;Warlley Alves
+ USA;UFC Featherweight Title Bout;Conor McGregor
+ USA;UFC Middleweight Title Bout;Luke Rockhold
+ USA;Lightweight Bout;Leonardo Santos
+ USA;Lightweight Bout;Magomed Mustafaev
+ USA;Lightweight Bout;Yancy Medeiros
+ USA;Lightweight Bout;Julian Erosa
+ USA;Ultimate Fighter 22 Lightweight Tournament Title Bout;Ryan Hall
+ USA;Featherweight Bout;Tatsuya Kawajiri
+ USA;Heavyweight Bout;Gabriel Gonzaga
+ USA;Flyweight Bout;Geane Herrera
+ USA;Welterweight Bout;Sergio Moraes
+ USA;Featherweight Bout;Zubaira Tukhugov
+ USA;Women's Strawweight Bout;Kailin Curran
+ Mexico;Flyweight Bout;Henry Cejudo
+ Mexico;Lightweight Bout;Leandro Silva
+ Mexico;Welterweight Bout;Neil Magny
+ Mexico;Ultimate Fighter Latin America 2 Welterweight Tournament Title Bout;Erick Montano
+ Mexico;Ultimate Fighter Latin America 2 Lightweight Tournament Title Bout;Enrique Barzola
+ Mexico;Welterweight Bout;Bartosz Fabinski
+ Mexico;Lightweight Bout;Michel Prazeres
+ Mexico;Welterweight Bout;Alvaro Herrera Mendoza
+ Mexico;Featherweight Bout;Andre Fili
+ Australia;Light Heavyweight Bout;Gian Villante
+ Australia;Welterweight Bout;Kyle Noke
+ Australia;Heavyweight Bout;Jared Rosholt
+ Australia;UFC Women's Bantamweight Title Bout;Holly Holm
+ Australia;UFC Women's Strawweight Title Bout;Joanna Jedrzejczyk
+ Australia;Flyweight Bout;Danny Martinez
+ Australia;Welterweight Bout;Richard Walsh
+ Australia;Welterweight Bout;James Moontasri
+ Brazil;Lightweight Bout;Johnny Case
+ Brazil;Lightweight Bout;Alex Oliveira
+ Brazil;Light Heavyweight Bout;Glover Teixeira
+ Brazil;Lightweight Bout;Rashid Magomedov
+ Brazil;Light Heavyweight Bout;Corey Anderson
+ Brazil;Lightweight Bout;Abel Trujillo
+ Brazil;Featherweight Bout;Thiago Tavares
+ Brazil;Featherweight Bout;Chas Skelly
+ Brazil;Welterweight Bout;Viscardi Andrade
+ Brazil;Bantamweight Bout;Matheus Nicolau
+ Brazil;Bantamweight Bout;Jimmie Rivera
+ Ireland;Middleweight Bout;Krzysztof Jotko
+ Ireland;Lightweight Bout;Norman Parke
+ Ireland;Women's Strawweight Bout;Aisling Daly
+ Ireland;Flyweight Bout;Neil Seery
+ Ireland;Welterweight Bout;
+ Ireland;Welterweight Bout;Tom Breese
+ Ireland;Flyweight Bout;Louis Smolka
+ Ireland;Lightweight Bout;Stevie Ray
+ Ireland;Featherweight Bout;Darren Elkins
+ Ireland;Middleweight Bout;Garreth McLellan
+ USA;Light Heavyweight Bout;Ryan Bader
+ USA;Lightweight Bout;Adriano Martins
+ USA;Heavyweight Bout;Ruslan Magomedov
+ USA;Lightweight Bout;Ross Pearson
+ USA;Women's Strawweight Bout;Paige VanZant
+ USA;Middleweight Bout;Joe Riggs
+ USA;Featherweight Bout;Tiago dos Santos e Silva
+ Canada;Women's Strawweight Bout;Valerie Letourneau
+ Canada;Featherweight Bout;Max Holloway
+ Canada;Lightweight Bout;Frankie Perez
+ Canada;Lightweight Bout;Francisco Trinaldo
+ Canada;Bantamweight Bout;Felipe Arantes
+ Canada;Welterweight Bout;Neil Magny
+ Canada;Welterweight Bout;Patrick Cote
+ Canada;Lightweight Bout;Shane Campbell
+ Canada;Light Heavyweight Bout;Nikita Krylov
+ Canada;Flyweight Bout;Chris Kelades
+ USA;Heavyweight Bout;Jared Rosholt
+ USA;Light Heavyweight Bout;Jonathan Wilson
+ Brazil;UFC Women's Bantamweight Title Bout;Ronda Rousey
+ Brazil;Heavyweight Bout;Stefan Struve
+ Brazil;Heavyweight Bout;Antonio Silva
+ Brazil;Ultimate Fighter Brazil 4 Lightweight Tournament Title Bout;Glaico Franca Moreira
+ Brazil;Ultimate Fighter Brazil 4 Bantamweight Tournament Title Bout;Reginaldo Vieira
+ Brazil;Light Heavyweight Bout;Patrick Cummins
+ Brazil;Middleweight Bout;Vitor Miranda
+ Brazil;Bantamweight Bout;Guido Cannetti
+ USA;Light Heavyweight Bout;Tom Lawlor
+ USA;Women's Bantamweight Bout;Miesha Tate
+ USA;Women's Bantamweight Bout;Elizabeth Phillips
+ USA;Lightweight Bout;Andrew Holbrook
+ United Kingdom;Women's Strawweight Bout;Joanne Calderwood
+ United Kingdom;Lightweight Bout;Evan Dunham
+ United Kingdom;Flyweight Bout;Paddy Holohan
+ United Kingdom;Light Heavyweight Bout;Ilir Latifi
+ United Kingdom;Lightweight Bout;Mickael Lebout
+ United Kingdom;Featherweight Bout;Robert Whiteford
+ United Kingdom;Bantamweight Bout;Jimmie Rivera
+ USA;Featherweight Bout;Sam Sicilia
+ USA;Women's Bantamweight Bout;Jessica Andrade
+ USA;Bantamweight Bout;Manvel Gamburyan
+ USA;Heavyweight Bout;Frank Mir
+ USA;Middleweight Bout;Kevin Casey
+ USA;Featherweight Bout;Maximo Blanco
+ USA;Middleweight Bout;Josh Samman
+ USA;Ultimate Fighter 21 Welterweight Tournament Title Bout;Kamaru Usman
+ USA;Bantamweight Bout;Jerrod Sanders
+ USA;Flyweight Bout;Willie Gates
+ USA;Welterweight Bout;George Sullivan
+ USA;UFC Interim Featherweight Title Bout;Conor McGregor
+ USA;Welterweight Bout;Gunnar Nelson
+ USA;Welterweight Bout;John Howard
+ USA;Bantamweight Bout;Thomas Almeida
+ USA;Lightweight Bout;Cody Pfister
+ USA;Welterweight Bout;Tony Sims
+ USA;Welterweight Bout;Leandro Silva
+ USA;Featherweight Bout;Hacran Dias
+ USA;Bantamweight Bout;Sirwan Kakai
+ Germany;UFC Women's Strawweight Title Bout;Joanna Jedrzejczyk
+ Germany;Featherweight Bout;Tatsuya Kawajiri
+ Germany;Featherweight Bout;Makwan Amirkhani
+ Germany;Lightweight Bout;Mairbek Taisumov
+ Germany;Featherweight Bout;Arnold Allen
+ Germany;Featherweight Bout;Noad Lahat
+ Germany;Middleweight Bout;Scott Askham
+ Germany;Lightweight Bout;Magomed Mustafaev
+ Mexico;Bantamweight Bout;Patrick Williams
+ Mexico;Women's Strawweight Bout;Tecia Torres
+ Mexico;Featherweight Bout;Yair Rodriguez
+ Mexico;Lightweight Bout;Eddie Alvarez
+ Mexico;UFC Heavyweight Title Bout;Fabricio Werdum
+ Mexico;Middleweight Bout;Kelvin Gastelum
+ Mexico;Lightweight Bout;Efrain Escudero
+ Mexico;Lightweight Bout;Johnny Case
+ Mexico;Featherweight Bout;Gabriel Benitez
+ Mexico;Welterweight Bout;Cathal Pendred
+ USA;Bantamweight Bout;Francisco Rivera
+ USA;Heavyweight Bout;Shawn Jordan
+ USA;Welterweight Bout;Omari Akhmedov
+ USA;Lightweight Bout;Joe Proctor
+ Brazil;Welterweight Bout;Darren Till
+ Brazil;Light Heavyweight Bout;Francimar Barroso
+ Brazil;Featherweight Bout;
+ Brazil;Welterweight Bout;Carlos Condit
+ Brazil;Featherweight Bout;Charles Oliveira
+ Brazil;Women's Strawweight Bout;Juliana Lima
+ Brazil;Welterweight Bout;Tom Breese
+ Brazil;Welterweight Bout;Nicolas Dalby
+ Brazil;Featherweight Bout;Mirsad Bektic
+ USA;UFC Middleweight Title Bout;Chris Weidman
+ USA;Flyweight Bout;John Dodson
+ Australia;Middleweight Bout;Sam Alvey
+ Australia;Heavyweight Bout;Stipe Miocic
+ Australia;Lightweight Bout;James Vick
+ Australia;Light Heavyweight Bout;Sean O'Connell
+ Australia;Middleweight Bout;Brad Scott
+ Australia;Women's Strawweight Bout;Alex Chambers
+ Australia;Welterweight Bout;Brendan O'Reilly
+ Canada;UFC Flyweight Title Bout;Demetrious Johnson
+ Canada;Catch Weight Bout;John Makdessi
+ Canada;Middleweight Bout;Michael Bisping
+ Canada;Bantamweight Bout;Thomas Almeida
+ Canada;Catch Weight Bout;Quinton Jackson
+ Canada;Women's Bantamweight Bout;Alexis Davis
+ USA;Middleweight Bout;Chris Dempsey
+ USA;Featherweight Bout;Diego Brandao
+ USA;Lightweight Bout;Alexander Yakovlev
+ USA;Featherweight Bout;Clay Guida
+ USA;Heavyweight Bout;Timothy Johnson
+ USA;Middleweight Bout;Ron Stallings
+ USA;Middleweight Bout;Elias Theodorou
+ USA;Welterweight Bout;Johny Hendricks
+ USA;Middleweight Bout;Roan Carneiro
+ USA;UFC Women's Bantamweight Title Bout;Ronda Rousey
+ USA;Lightweight Bout;Valmir Lazaro
+ USA;Featherweight Bout;Masio Fullen
+ Brazil;Middleweight Bout;Sam Alvey
+ Brazil;Welterweight Bout;Santiago Ponzinibbio
+ Brazil;Bantamweight Bout;Frankie Saenz
+ Brazil;Heavyweight Bout;Frank Mir
+ Brazil;Lightweight Bout;Adriano Martins
+ Brazil;Women's Bantamweight Bout;Marion Reneau
+ Brazil;Lightweight Bout;Michael Johnson
+ Brazil;Welterweight Bout;Matt Dwyer
+ Brazil;Featherweight Bout;Mike de la Torre
+ Brazil;Lightweight Bout;Ivan Jorge
+ USA;Lightweight Bout;Efrain Escudero
+ USA;Welterweight Bout;Benson Henderson
+ USA;Lightweight Bout;James Moontasri
+ USA;Flyweight Bout;Zach Makovsky
+ USA;Welterweight Bout;Tyron Woodley
+ USA;Flyweight Bout;John Lineker
+ USA;Middleweight Bout;Ildemar Alcantara
+ USA;Lightweight Bout;Gleison Tibau
+ USA;Featherweight Bout;Conor McGregor
+ USA;Flyweight Bout;Paddy Holohan
+ USA;Welterweight Bout;Cathal Pendred
+ USA;Lightweight Bout;Johnny Case
+ USA;Light Heavyweight Bout;Sean O'Connell
+ USA;Flyweight Bout;Joby Sanchez
+ USA;Flyweight Bout;Kyoji Horiguchi
+ Brazil;Bantamweight Bout;Renan Barao
+ Brazil;Middleweight Bout;Daniel Sarafian
+ Brazil;Light Heavyweight Bout;Marcos Rogerio de Lima
+ Brazil;Bantamweight Bout;Leandro Issa
+ Brazil;Welterweight Bout;Tim Means
+ Brazil;Featherweight Bout;Hacran Dias
+ USA;Heavyweight Bout;Matt Mitrione
+ USA;Lightweight Bout;David Michaud
+ USA;Lightweight Bout;Bryan Barberena
+ USA;Bantamweight Bout;Ian Entwistle
+ USA;Bantamweight Bout;Henry Cejudo
+ USA;Women's Strawweight Bout;Jessica Penne
+ USA;UFC Women's Strawweight Title Bout;Carla Esparza
+ USA;Women's Strawweight Bout;Heather Clark
+ USA;Women's Strawweight Bout;Joanne Calderwood
+ USA;Women's Strawweight Bout;Aisling Daly
+ USA;Heavyweight Bout;Todd Duffee
+ USA;UFC Lightweight Title Bout;Anthony Pettis
+ USA;Bantamweight Bout;Sergio Pettis
+ USA;Featherweight Bout;Clay Collard
+ USA;Middleweight Bout;Roger Narvaez
+ USA;Flyweight Bout;Chico Camus
+ USA;Lightweight Bout;Matt Wiman
+ USA;Lightweight Bout;Akbarh Arreola
+ Mexico;UFC Interim Heavyweight Title Bout;Fabricio Werdum
+ Mexico;Women's Bantamweight Bout;Jessica Eye
+ Mexico;Ultimate Fighter Latin America Bantamweight Tournament Title Bout;Alejandro Perez
+ Mexico;Welterweight Bout;Augusto Montano
+ Mexico;Ultimate Fighter Latin America Featherweight Tournament Title Bout;Yair Rodriguez
+ Mexico;Welterweight Bout;Kelvin Gastelum
+ Mexico;Welterweight Bout;Hector Urbina
+ Mexico;Bantamweight Bout;Henry Briones
+ Mexico;Bantamweight Bout;Marco Beltran
+ Brazil;Lightweight Bout;Leandro Silva
+ Brazil;Welterweight Bout;Claudio Silva
+ Brazil;Middleweight Bout;Caio Magalhaes
+ Brazil;Welterweight Bout;Dhiego Lima
+ Brazil;Light Heavyweight Bout;Ovince Saint Preux
+ Brazil;Featherweight Bout;Diego Rivas
+ Australia;Middleweight Bout;Luke Rockhold
+ Australia;Flyweight Bout;Louis Smolka
+ Australia;Heavyweight Bout;Soa Palelei
+ Australia;Light Heavyweight Bout;Anthony Perosh
+ Australia;Lightweight Bout;Al Iaquinta
+ Australia;Bantamweight Bout;Marcus Brimage
+ Australia;Welterweight Bout;Chris Clements
+ Canada;Bantamweight Bout;Mitch Gagnon
+ Canada;Welterweight Bout;Rory MacDonald
+ Canada;Bantamweight Bout;Raphael Assuncao
+ Canada;Lightweight Bout;Daron Cruickshank
+ Canada;Welterweight Bout;Albert Tumenov
+ Canada;Bantamweight Bout;
+ USA;Lightweight Bout;Jorge Masvidal
+ USA;Welterweight Bout;Brian Ebersole
+ Brazil;Heavyweight Bout;Andrei Arlovski
+ Brazil;Women's Bantamweight Bout;Jessica Andrade
+ Brazil;Lightweight Bout;Gleison Tibau
+ Brazil;Lightweight Bout;Leonardo Santos
+ Brazil;Welterweight Bout;George Sullivan
+ Brazil;Welterweight Bout;Sean Spencer
+ USA;Bantamweight Bout;Chris Beal
+ USA;Catch Weight Bout;Max Holloway
+ USA;Welterweight Bout;Jordan Mein
+ USA;Bantamweight Bout;Matt Hobar
+ USA;Featherweight Bout;Thiago Tavares
+ USA;Middleweight Bout;Tom Watson
+ USA;Lightweight Bout;Tiago dos Santos e Silva
+ USA;Featherweight Bout;Noad Lahat
+ Ireland;Welterweight Bout;Gunnar Nelson
+ Ireland;Light Heavyweight Bout;Ilir Latifi
+ Ireland;Middleweight Bout;Trevor Smith
+ Ireland;Featherweight Bout;Conor McGregor
+ Ireland;Flyweight Bout;Ian McCall
+ Ireland;Middleweight Bout;Cathal Pendred
+ Ireland;Light Heavyweight Bout;Nikita Krylov
+ Ireland;Flyweight Bout;Paddy Holohan
+ USA;Featherweight Bout;Lucas Martins
+ USA;Lightweight Bout;Yosdenis Cedeno
+ USA;Ultimate Fighter 19 Middleweight Tournament Title Bout;Eddie Gordon
+ USA;Bantamweight Bout;Leandro Issa
+ USA;Ultimate Fighter 19 Light Heavyweight Tournament Title Bout;Corey Anderson
+ USA;Light Heavyweight Bout;Patrick Walsh
+ USA;Catch Weight Bout;Sarah Moras
+ USA;Middleweight Bout;Bruno Santos
+ USA;Bantamweight Bout;Russell Doane
+ USA;Welterweight Bout;Kenny Robertson
+ USA;Middleweight Bout;Luke Zachrich
+ USA;Bantamweight Bout;Cody Gibson
+ USA;Lightweight Bout;Joe Ellenberger
+ USA;Middleweight Bout;Marcelo Guimaraes
+ USA;Middleweight Bout;Clint Hester
+ Canada;Light Heavyweight Bout;Ryan Bader
+ Canada;Heavyweight Bout;Andrei Arlovski
+ Canada;Light Heavyweight Bout;Ovince Saint Preux
+ Canada;Women's Bantamweight Bout;Valerie Letourneau
+ Canada;Bantamweight Bout;Yves Jabouin
+ Canada;Welterweight Bout;Kiichi Kunimoto
+ Canada;Bantamweight Bout;Michinori Tanaka
+ Canada;Lightweight Bout;Tae Hyun Bang
+ USA;Lightweight Bout;Benson Henderson
+ USA;Lightweight Bout;Piotr Hallmann
+ USA;Welterweight Bout;Lance Benoist
+ USA;Flyweight Bout;Scott Jorgensen
+ USA;Lightweight Bout;Jon Tuck
+ USA;Bantamweight Bout;Takeya Mizugaki
+ USA;Bantamweight Bout;Chris Holdsworth
+ USA;Lightweight Bout;Mitch Clarke
+ USA;Heavyweight Bout;Soa Palelei
+ USA;Lightweight Bout;Daron Cruickshank
+ USA;Flyweight Bout;Chris Cariaso
+ USA;Middleweight Bout;Constantinos Philippou
+ USA;Middleweight Bout;Ed Herman
+ USA;Bantamweight Bout;Johnny Eduardo
+ USA;Featherweight Bout;Nik Lentz
+ USA;Lightweight Bout;Justin Salas
+ USA;Lightweight Bout;Takanori Gomi
+ USA;Lightweight Bout;Danny Castillo
+ USA;Middleweight Bout;Caio Magalhaes
+ Canada;Light Heavyweight Bout;Ryan Jimmo
+ Canada;TUF Nations Canada vs. Australia Welterweight Tournament Title Bout;Chad Laprise
+ Canada;Middleweight Bout;Tim Kennedy
+ Canada;TUF Nations Canada vs. Australia Middleweight Tournament Title Bout;Elias Theodorou
+ Canada;Featherweight Bout;Dustin Poirier
+ Canada;Women's Bantamweight Bout;Sarah Kaufman
+ Canada;Welterweight Bout;KJ Noons
+ Canada;Bantamweight Bout;George Roop
+ Canada;Lightweight Bout;Mark Bocek
+ Canada;Middleweight Bout;Nordine Taleb
+ Canada;Welterweight Bout;Richard Walsh
+ Brazil;Middleweight Bout;CB Dollaway
+ Brazil;Lightweight Bout;
+ Brazil;Light Heavyweight Bout;Fabio Maldonado
+ Brazil;Featherweight Bout;Rony Jason
+ Brazil;Light Heavyweight Bout;Dan Henderson
+ Brazil;Welterweight Bout;Kenny Robertson
+ Brazil;Light Heavyweight Bout;Hans Stringer
+ USA;UFC Welterweight Title Bout;Johny Hendricks
+ USA;Lightweight Bout;Myles Jury
+ USA;Welterweight Bout;Hector Lombard
+ USA;Featherweight Bout;Robert Whiteford
+ USA;Lightweight Bout;Francisco Trevino
+ United Kingdom;Middleweight Bout;Luke Barnatt
+ United Kingdom;Light Heavyweight Bout;Alexander Gustafsson
+ United Kingdom;Flyweight Bout;Brad Pickett
+ United Kingdom;Middleweight Bout;Claudio Silva
+ United Kingdom;Welterweight Bout;Igor Araujo
+ United Kingdom;Lightweight Bout;Michael Johnson
+ United Kingdom;Flyweight Bout;
+ USA;Welterweight Bout;Rory MacDonald
+ USA;Lightweight Bout;Ernest Chavez
+ Brazil;Welterweight Bout;Nicholas Musoke
+ Brazil;Lightweight Bout;Rodrigo Damm
+ Brazil;Lightweight Bout;Joe Proctor
+ Brazil;Welterweight Bout;Ildemar Alcantara
+ Brazil;Featherweight Bout;Felipe Arantes
+ Brazil;Featherweight Bout;Zubaira Tukhugov
+ USA;UFC Bantamweight Title Bout;Renan Barao
+ USA;UFC Featherweight Title Bout;Jose Aldo
+ USA;Flyweight Bout;Ali Bagautinov
+ USA;Lightweight Bout;Alan Patrick
+ USA;Middleweight Bout;Nick Catone
+ USA;Bantamweight Bout;Hugo Viana
+ USA;Bantamweight Bout;Alex Caceres
+ USA;Heavyweight Bout;Nikita Krylov
+ USA;Lightweight Bout;Elias Silverio
+ USA;Lightweight Bout;Ramsey Nijem
+ USA;Featherweight Bout;Cole Miller
+ USA;Featherweight Bout;Dustin Poirier
+ USA;Welterweight Bout;William Macario
+ USA;Featherweight Bout;Robert Peralta
+ USA;Lightweight Bout;Sam Stout
+ USA;Flyweight Bout;Alptekin Ozkilic
+ Australia;Middleweight Bout;Caio Magalhaes
+ Australia;Bantamweight Bout;Takeya Mizugaki
+ Australia;Middleweight Bout;Clint Hester
+ Australia;Light Heavyweight Bout;Ryan Bader
+ Australia;Heavyweight Bout;
+ Australia;Women's Bantamweight Bout;Bethe Correia
+ Australia;Welterweight Bout;Alex Garcia
+ Australia;Flyweight Bout;Justin Scoggins
+ Australia;Middleweight Bout;Krzysztof Jotko
+ USA;Featherweight Bout;Akira Corassani
+ USA;Ultimate Fighter 18 Women's Bantamweight Tournament Title Bout;Julianna Pena
+ USA;Featherweight Bout;Tom Niinimaki
+ USA;Ultimate Fighter 18 Bantamweight Tournament Title Bout;Chris Holdsworth
+ USA;Women's Bantamweight Bout;Jessamyn Duke
+ USA;Welterweight Bout;Sean Spencer
+ USA;Flyweight Bout;Josh Sampo
+ USA;UFC Welterweight Title Bout;Georges St-Pierre
+ USA;Light Heavyweight Bout;Rashad Evans
+ USA;Welterweight Bout;Jason High
+ Brazil;Middleweight Bout;Omari Akhmedov
+ Brazil;Welterweight Bout;Brandon Thatch
+ Brazil;Light Heavyweight Bout;Rafael Cavalcante
+ Brazil;Featherweight Bout;Jeremy Stephens
+ Brazil;Light Heavyweight Bout;Vitor Belfort
+ Brazil;Welterweight Bout;Ryan LaFlare
+ Brazil;Lightweight Bout;Thiago Tavares
+ Brazil;Featherweight Bout;Sam Sicilia
+ Brazil;Flyweight Bout;Dustin Ortiz
+ USA;Middleweight Bout;Tim Kennedy
+ USA;Lightweight Bout;Rustam Khabilov
+ USA;Middleweight Bout;Lorenz Larkin
+ USA;Welterweight Bout;Seth Baczynski
+ United Kingdom;Flyweight Bout;John Lineker
+ United Kingdom;Lightweight Bout;
+ United Kingdom;Lightweight Bout;Norman Parke
+ United Kingdom;Middleweight Bout;Lyoto Machida
+ United Kingdom;Lightweight Bout;Al Iaquinta
+ United Kingdom;Middleweight Bout;Nicholas Musoke
+ United Kingdom;Featherweight Bout;Jimy Hettes
+ United Kingdom;Featherweight Bout;Cole Miller
+ United Kingdom;Women's Bantamweight Bout;Jessica Andrade
+ USA;Women's Bantamweight Bout;
+ USA;Lightweight Bout;Gilbert Melendez
+ USA;UFC Heavyweight Title Bout;Cain Velasquez
+ USA;Heavyweight Bout;Daniel Cormier
+ USA;Welterweight Bout;Adlan Amagov
+ USA;Bantamweight Bout;Kyoji Horiguchi
+ USA;Lightweight Bout;KJ Noons
+ Brazil;Welterweight Bout;Igor Araujo
+ Brazil;Welterweight Bout;Rousimar Palhares
+ Brazil;Light Heavyweight Bout;Thiago Silva
+ Brazil;Welterweight Bout;Dong Hyun Kim
+ Brazil;Welterweight Bout;Jake Shields
+ Brazil;Welterweight Bout;Yan Cabral
+ Brazil;Flyweight Bout;Chris Cariaso
+ Canada;Lightweight Bout;Khabib Nurmagomedov
+ Canada;Bantamweight Bout;Wilson Reis
+ Canada;Lightweight Bout;Myles Jury
+ Canada;Middleweight Bout;Francis Carmont
+ Canada;UFC Light Heavyweight Title Bout;Jon Jones
+ Canada;Heavyweight Bout;Brendan Schaub
+ Canada;UFC Interim Bantamweight Title Bout;Renan Barao
+ Canada;Heavyweight Bout;Daniel Omielanczuk
+ Canada;Lightweight Bout;Michel Prazeres
+ Canada;Bantamweight Bout;Alex Caceres
+ Brazil;Lightweight Bout;Piotr Hallmann
+ Brazil;Middleweight Bout;Rafael Natal
+ Brazil;Flyweight Bout;Ali Bagautinov
+ Brazil;Flyweight Bout;Joseph Benavidez
+ Brazil;Bantamweight Bout;Lucas Martins
+ Brazil;Featherweight Bout;Edimilson Souza
+ Brazil;Welterweight Bout;Elias Silverio
+ Brazil;Welterweight Bout;Ivan Jorge
+ USA;Welterweight Bout;Hyun Gyu Lim
+ USA;Heavyweight Bout;Josh Barnett
+ USA;Middleweight Bout;Magnus Cedenblad
+ USA;Bantamweight Bout;Chico Camus
+ USA;Welterweight Bout;Brandon Thatch
+ USA;Middleweight Bout;Dylan Andrews
+ USA;Welterweight Bout;Carlos Condit
+ USA;Light Heavyweight Bout;Chael Sonnen
+ USA;Middleweight Bout;John Howard
+ USA;Featherweight Bout;Manvel Gamburyan
+ USA;Featherweight Bout;Steven Siler
+ USA;Lightweight Bout;Melvin Guillard
+ USA;Bantamweight Bout;Yaotzin Meza
+ USA;Middleweight Bout;Mark Munoz
+ USA;Middleweight Bout;Andrew Craig
+ USA;Lightweight Bout;Norman Parke
+ USA;Welterweight Bout;Brian Melancon
+ USA;Welterweight Bout;Mike Pierce
+ Canada;Heavyweight Bout;Shawn Jordan
+ Canada;Heavyweight Bout;Stipe Miocic
+ Canada;Lightweight Bout;James Krause
+ Canada;Light Heavyweight Bout;Rashad Evans
+ Canada;Welterweight Bout;Sean Pierson
+ Canada;Welterweight Bout;Jake Shields
+ Canada;Bantamweight Bout;Roland Delorme
+ Canada;Lightweight Bout;Mitch Clarke
+ Brazil;Ultimate Fighter Brazil 2 Welterweight Tournament Title Bout;Leonardo Santos
+ Brazil;Heavyweight Bout;Fabricio Werdum
+ Brazil;Middleweight Bout;Antonio Braga Neto
+ Brazil;Featherweight Bout;Rodrigo Damm
+ USA;Lightweight Bout;TJ Grant
+ USA;Welterweight Bout;Robert Whittaker
+ USA;Bantamweight Bout;George Roop
+ Brazil;Welterweight Bout;Paulo Thiago
+ Brazil;Lightweight Bout;Rafael Dos Anjos
+ Brazil;Featherweight Bout;Nik Lentz
+ Brazil;Lightweight Bout;Lucas Martins
+ Brazil;Flyweight Bout;John Lineker
+ USA;Light Heavyweight Bout;Phil Davis
+ USA;Middleweight Bout;Michael Bisping
+ USA;Featherweight Bout;Cody McKenzie
+ USA;UFC Lightweight Title Bout;Benson Henderson
+ USA;Middleweight Bout;Francis Carmont
+ USA;Lightweight Bout;Josh Thomson
+ USA;Lightweight Bout;Anthony Njokuani
+ USA;Middleweight Bout;Robert McDaniel
+ USA;Ultimate Fighter 17 Middleweight Tournament Title Bout;Kelvin Gastelum
+ USA;Middleweight Bout;Luke Barnatt
+ Canada;Welterweight Bout;Jake Ellenberger
+ Canada;Featherweight Bout;Darren Elkins
+ Canada;Lightweight Bout;Mike Ricci
+ Canada;Welterweight Bout;Johny Hendricks
+ Canada;UFC Welterweight Title Bout;Georges St-Pierre
+ Canada;Middleweight Bout;Chris Camozzi
+ Canada;Bantamweight Bout;TJ Dillashaw
+ Canada;Welterweight Bout;Rick Story
+ USA;Light Heavyweight Bout;Lyoto Machida
+ USA;Heavyweight Bout;Brendan Schaub
+ USA;Welterweight Bout;Nah-Shon Burrell
+ United Kingdom;Featherweight Bout;Cub Swanson
+ United Kingdom;UFC Interim Bantamweight Title Bout;Renan Barao
+ United Kingdom;Lightweight Bout;Danny Castillo
+ United Kingdom;Lightweight Bout;Renee Forte
+ United Kingdom;Light Heavyweight Bout;James Te Huna
+ United Kingdom;Welterweight Bout;
+ United Kingdom;Featherweight Bout;Andy Ogle
+ United Kingdom;Bantamweight Bout;Vaughan Lee
+ United Kingdom;Middleweight Bout;Tom Watson
+ United Kingdom;Flyweight Bout;Phil Harris
+ USA;Light Heavyweight Bout;Rogerio Nogueira
+ USA;Heavyweight Bout;Antonio Silva
+ USA;Bantamweight Bout;Dustin Kimura
+ USA;Lightweight Bout;Isaac Vallie-Flagg
+ USA;Welterweight Bout;Pascal Krauss
+ USA;Welterweight Bout;David Mitchell
+ USA;Lightweight Bout;Jamie Varner
+ USA;Middleweight Bout;Yushin Okami
+ USA;Ultimate Fighter 16 Welterweight Tournament Title Bout;Colton Smith
+ USA;Welterweight Bout;TJ Waldburger
+ USA;Bantamweight Bout;Johnny Bedford
+ USA;Heavyweight Bout;Pat Barry
+ USA;Lightweight Bout;Mike Rio
+ Australia;Ultimate Fighter Australia vs. UK Lightweight Tournament Title Bout;Norman Parke
+ Australia;Ultimate Fighter Australia vs. UK Welterweight Tournament Title Bout;Robert Whittaker
+ Australia;Welterweight Bout;Ben Alloway
+ Australia;Welterweight Bout;Mike Pierce
+ Australia;Middleweight Bout;Hector Lombard
+ Australia;Light Heavyweight Bout;
+ Australia;Featherweight Bout;Chad Mendes
+ Australia;Lightweight Bout;Mike Wilkinson
+ Australia;Light Heavyweight Bout;Cody Donovan
+ USA;Light Heavyweight Bout;Alexander Gustafsson
+ USA;Lightweight Bout;Yves Edwards
+ USA;Bantamweight Bout;Scott Jorgensen
+ Canada;Middleweight Bout;Patrick Cote
+ Canada;Light Heavyweight Bout;Cyrille Diabate
+ Canada;Featherweight Bout;Pablo Garza
+ Canada;Lightweight Bout;Rafael Dos Anjos
+ Canada;Bantamweight Bout;Ivan Menjivar
+ Canada;Featherweight Bout;Antonio Carvalho
+ Canada;Welterweight Bout;Matthew Riddle
+ USA;Welterweight Bout;Justin Edwards
+ USA;Lightweight Bout;Marcus LeVesseur
+ USA;Lightweight Bout;Jacob Volkmann
+ USA;Featherweight Bout;Diego Nunes
+ USA;Flyweight Bout;Darren Uyenoyama
+ United Kingdom;Featherweight Bout;Akira Corassani
+ United Kingdom;Lightweight Bout;Matt Wiman
+ United Kingdom;Welterweight Bout;Che Mills
+ United Kingdom;Welterweight Bout;Dan Hardy
+ United Kingdom;Welterweight Bout;John Hathaway
+ United Kingdom;Middleweight Bout;Brad Tavares
+ United Kingdom;Catch Weight Bout;Gunnar Nelson
+ United Kingdom;Featherweight Bout;Robert Peralta
+ Canada;Light Heavyweight Bout;Vinny Magalhaes
+ Canada;Lightweight Bout;TJ Grant
+ Canada;Light Heavyweight Bout;Matt Hamill
+ Canada;Featherweight Bout;Marcus Brimage
+ Canada;Welterweight Bout;Seth Baczynski
+ Canada;Welterweight Bout;Kyle Noke
+ USA;Middleweight Bout;Michael Kuiper
+ USA;Featherweight Bout;Rani Yahya
+ USA;Heavyweight Bout;Philip De Fries
+ USA;Featherweight Bout;Nam Phan
+ USA;Welterweight Bout;Mike Swick
+ USA;Light Heavyweight Bout;Mauricio Rua
+ Canada;Welterweight Bout;James Head
+ Canada;Welterweight Bout;
+ Canada;Middleweight Bout;Nick Ring
+ Canada;Middleweight Bout;Tim Boetsch
+ Canada;Heavyweight Bout;Cheick Kongo
+ Canada;Bantamweight Bout;Bryan Caraway
+ Canada;Lightweight Bout;Anton Kuivanen
+ USA;Welterweight Bout;Aaron Simpson
+ USA;Light Heavyweight Bout;James Te Huna
+ USA;Welterweight Bout;Marcelo Guimaraes
+ USA;UFC Middleweight Title Bout;Anderson Silva
+ USA;Bantamweight Bout;Mike Easton
+ USA;Middleweight Bout;Cung Le
+ USA;Light Heavyweight Bout;Forrest Griffin
+ USA;Lightweight Bout;Shane Roller
+ USA;Lightweight Bout;Rafaello Oliveira
+ Brazil;Ultimate Fighter Brazil 1 Middleweight Tournament Title Bout;Cezar Ferreira
+ Brazil;Ultimate Fighter Brazil 1 Featherweight Tournament Title Bout;Rony Jason
+ Brazil;Catch Weight Bout;Rich Franklin
+ Brazil;Featherweight Bout;Hugo Viana
+ Brazil;Middleweight Bout;Francisco Trinaldo
+ Brazil;Featherweight Bout;Marcos Vinicius
+ Brazil;Middleweight Bout;Thiago Perpetuo
+ USA;Lightweight Bout;Gray Maynard
+ USA;Bantamweight Bout;Ken Stone
+ USA;Welterweight Bout;Dan Miller
+ USA;Welterweight Bout;Erick Silva
+ USA;Bantamweight Bout;Dustin Pague
+ USA;Flyweight Bout;Demetrious Johnson
+ USA;Featherweight Bout;Matt Grice
+ USA;Middleweight Bout;Buddy Roberts
+ USA;Lightweight Bout;Henry Martinez
+ USA;Welterweight Bout;Sean Pierson
+ USA;Lightweight Bout;Tim Means
+ USA;Lightweight Bout;Sam Sicilia
+ USA;Welterweight Bout;Martin Kampmann
+ USA;Lightweight Bout;Justin Lawrence
+ USA;Ultimate Fighter 15 Lightweight Tournament Title Bout;Michael Chiesa
+ USA;Heavyweight Bout;Stefan Struve
+ USA;UFC Heavyweight Title Bout;Junior Dos Santos
+ USA;Welterweight Bout;Dan Hardy
+ USA;Lightweight Bout;Paul Sass
+ USA;Featherweight Bout;Mike Brown
+ USA;Lightweight Bout;Cody McKenzie
+ USA;Bantamweight Bout;Yves Jabouin
+ USA;Welterweight Bout;Amir Sadollah
+ USA;Middleweight Bout;Tom Lawlor
+ USA;Light Heavyweight Bout;Igor Pokrajac
+ USA;Middleweight Bout;Alan Belcher
+ USA;Welterweight Bout;John Hathaway
+ USA;Heavyweight Bout;Lavar Johnson
+ USA;Flyweight Bout;Louis Gaudinot
+ USA;Middleweight Bout;Karlos Vemola
+ USA;Bantamweight Bout;Roland Delorme
+ USA;Lightweight Bout;Mark Bocek
+ USA;Featherweight Bout;Eddie Yagin
+ USA;Lightweight Bout;Mac Danzig
+ USA;Welterweight Bout;Chris Clements
+ USA;Featherweight Bout;Marcus Brimage
+ Australia;Flyweight Bout;Joseph Benavidez
+ Australia;Featherweight Bout;Steven Siler
+ Australia;Welterweight Bout;Martin Kampmann
+ Australia;Flyweight Bout;
+ Australia;Middleweight Bout;Constantinos Philippou
+ Australia;Light Heavyweight Bout;James Te Huna
+ Australia;Middleweight Bout;Andrew Craig
+ Australia;Heavyweight Bout;Shawn Jordan
+ Australia;Welterweight Bout;TJ Waldburger
+ Australia;Featherweight Bout;Daniel Pineda
+ USA;Featherweight Bout;Jonathan Brookins
+ USA;Middleweight Bout;Ronny Markes
+ USA;Bantamweight Bout;Ivan Menjivar
+ USA;Welterweight Bout;Josh Koscheck
+ USA;Bantamweight Bout;Renan Barao
+ USA;Bantamweight Bout;Edwin Figueroa
+ USA;UFC Interim Welterweight Title Bout;Carlos Condit
+ USA;Welterweight Bout;Matthew Riddle
+ USA;Heavyweight Bout;Mike Russow
+ USA;Middleweight Bout;Chael Sonnen
+ USA;Welterweight Bout;Charlie Brenneman
+ USA;Welterweight Bout;Josh Neer
+ USA;Middleweight Bout;Jorge Rivera
+ USA;Lightweight Bout;Fabricio Camoes
+ USA;Bantamweight Bout;Nick Denis
+ USA;Featherweight Bout;Jimy Hettes
+ USA;Featherweight Bout;Ross Pearson
+ Canada;Light Heavyweight Bout;Rogerio Nogueira
+ Canada;Welterweight Bout;Brian Ebersole
+ Canada;Light Heavyweight Bout;Igor Pokrajac
+ Canada;Lightweight Bout;Dennis Hallman
+ Canada;Middleweight Bout;Constantinos Philippou
+ Canada;Featherweight Bout;Chan Sung Jung
+ Canada;Heavyweight Bout;Frank Mir
+ Canada;Welterweight Bout;Jake Hecht
+ Canada;Lightweight Bout;John Cholish
+ USA;Ultimate Fighter 14 Featherweight Tournament Title Bout;Diego Brandao
+ USA;Bantamweight Bout;John Albert
+ USA;Ultimate Fighter 14 Bantamweight Tournament Title Bout;John Dodson
+ USA;Featherweight Bout;Bryan Caraway
+ USA;Middleweight Bout;Wanderlei Silva
+ USA;Light Heavyweight Bout;Stephan Bonnar
+ USA;Light Heavyweight Bout;Dan Henderson
+ USA;Bantamweight Bout;Miguel Torres
+ USA;Bantamweight Bout;Darren Uyenoyama
+ USA;Welterweight Bout;DaMarques Johnson
+ USA;Light Heavyweight Bout;Aaron Rosa
+ United Kingdom;Welterweight Bout;Thiago Alves
+ United Kingdom;Lightweight Bout;Terry Etim
+ United Kingdom;Light Heavyweight Bout;Anthony Perosh
+ United Kingdom;Middleweight Bout;Mark Munoz
+ United Kingdom;Bantamweight Bout;Renan Barao
+ United Kingdom;Featherweight Bout;Michihiro Omigawa
+ United Kingdom;Welterweight Bout;John Maguire
+ United Kingdom;Heavyweight Bout;Philip De Fries
+ United Kingdom;Bantamweight Bout;Chris Cariaso
+ USA;Featherweight Bout;Hatsu Hioki
+ USA;Featherweight Bout;Bart Palaszewski
+ USA;Welterweight Bout;Nick Diaz
+ USA;Heavyweight Bout;Cheick Kongo
+ USA;Light Heavyweight Bout;Brandon Vera
+ USA;Middleweight Bout;Clifford Starks
+ USA;Middleweight Bout;Demian Maia
+ USA;UFC Lightweight Title Bout;Frankie Edgar
+ USA;Middleweight Bout;Mike Massenzio
+ USA;Middleweight Bout;Aaron Simpson
+ USA;Welterweight Bout;Anthony Johnson
+ USA;Bantamweight Bout;Walel Watson
+ USA;Heavyweight Bout;Mark Hunt
+ USA;Featherweight Bout;Junior Assuncao
+ USA;Middleweight Bout;Court McGee
+ USA;Featherweight Bout;Erik Koch
+ USA;Lightweight Bout;Vagner Rocha
+ USA;Welterweight Bout;Duane Ludwig
+ USA;Light Heavyweight Bout;Ronny Markes
+ USA;Middleweight Bout;Jared Hamman
+ USA;Bantamweight Bout;Joseph Benavidez
+ USA;Welterweight Bout;Chris Lytle
+ USA;Lightweight Bout;Cole Miller
+ USA;Middleweight Bout;Vitor Belfort
+ USA;Bantamweight Bout;Brian Bowles
+ USA;Light Heavyweight Bout;Tito Ortiz
+ USA;Middleweight Bout;Chris Leben
+ USA;Lightweight Bout;Dennis Siver
+ USA;Bantamweight Bout;Jeff Hougland
+ USA;Welterweight Bout;Rich Attonito
+ USA;Featherweight Bout;Tyson Griffin
+ USA;Featherweight Bout;Javier Vazquez
+ Canada;Middleweight Bout;Mark Munoz
+ Canada;Heavyweight Bout;Junior Dos Santos
+ Canada;Heavyweight Bout;Dave Herman
+ Canada;Middleweight Bout;Chris Weidman
+ Canada;Light Heavyweight Bout;Krzysztof Soszynski
+ Canada;Lightweight Bout;Sam Stout
+ Canada;Featherweight Bout;Kenny Florian
+ Canada;Heavyweight Bout;Joey Beltran
+ USA;Ultimate Fighter 13 Welterweight Tournament Title Bout;Tony Ferguson
+ USA;Welterweight Bout;Shamar Bailey
+ USA;Featherweight Bout;George Roop
+ USA;Light Heavyweight Bout;Kyle Kingsbury
+ USA;Welterweight Bout;Chris Cope
+ USA;Lightweight Bout;Jeremy Stephens
+ USA;Welterweight Bout;Clay Harvison
+ USA;Bantamweight Bout;Reuben Duran
+ USA;Middleweight Bout;Brian Stann
+ USA;Bantamweight Bout;Demetrious Johnson
+ USA;Light Heavyweight Bout;Quinton Jackson
+ Canada;Light Heavyweight Bout;Vladimir Matyushenko
+ Canada;Lightweight Bout;Benson Henderson
+ Canada;UFC Featherweight Title Bout;Jose Aldo
+ Canada;Welterweight Bout;Claude Patrick
+ Canada;Light Heavyweight Bout;Lyoto Machida
+ Canada;Middleweight Bout;Jason MacDonald
+ USA;Featherweight Bout;Mackens Semerzier
+ USA;Heavyweight Bout;Christian Morecraft
+ USA;Light Heavyweight Bout;Luiz Cane
+ USA;Catch Weight Bout;Nick Catone
+ USA;Light Heavyweight Bout;Cyrille Diabate
+ USA;Middleweight Bout;Dongi Yang
+ USA;Middleweight Bout;Rousimar Palhares
+ Australia;Middleweight Bout;Kyle Noke
+ Australia;Welterweight Bout;Brian Ebersole
+ Australia;Middleweight Bout;Nick Ring
+ Australia;Lightweight Bout;Dennis Siver
+ Australia;Light Heavyweight Bout;Alexander Gustafsson
+ Australia;Welterweight Bout;
+ Australia;Middleweight Bout;Michael Bisping
+ Australia;Featherweight Bout;Zhang Tiequan
+ Australia;Lightweight Bout;Curt Warburton
+ USA;Light Heavyweight Bout;Jon Jones
+ USA;Lightweight Bout;Paul Taylor
+ USA;Featherweight Bout;Mark Hominick
+ USA;Lightweight Bout;Waylon Lowe
+ USA;Bantamweight Bout;Chris Cariaso
+ USA;UFC Lightweight Title Bout;
+ USA;Welterweight Bout;Daniel Roberts
+ Canada;Welterweight Bout;Thiago Alves
+ Canada;Heavyweight Bout;Stefan Struve
+ Canada;Lightweight Bout;Mac Danzig
+ Canada;Middleweight Bout;Dan Miller
+ Canada;Middleweight Bout;
+ Canada;Welterweight Bout;Ricardo Almeida
+ USA;Lightweight Bout;Kyle Watson
+ USA;Featherweight Bout;Leonard Garcia
+ USA;Ultimate Fighter 12 Lightweight Tournament Title Bout;Jonathan Brookins
+ USA;Featherweight Bout;Ian Loveland
+ USA;Bantamweight Bout;Nick Pace
+ USA;Featherweight Bout;Pablo Garza
+ USA;Welterweight Bout;Dennis Hallman
+ USA;Welterweight Bout;Brian Foster
+ USA;Middleweight Bout;Maiquel Falcao
+ USA;Welterweight Bout;BJ Penn
+ USA;Lightweight Bout;George Sotiropoulos
+ USA;Lightweight Bout;Paul Kelly
+ Germany;Middleweight Bout;Kyle Noke
+ Germany;Welterweight Bout;Amir Sadollah
+ Germany;Lightweight Bout;Dennis Siver
+ Germany;Welterweight Bout;Pascal Krauss
+ Germany;Welterweight Bout;Duane Ludwig
+ Germany;Middleweight Bout;Yushin Okami
+ Germany;Light Heavyweight Bout;Vladimir Matyushenko
+ Germany;Light Heavyweight Bout;Krzysztof Soszynski
+ Germany;Welterweight Bout;Carlos Eduardo Rocha
+ Germany;Light Heavyweight Bout;Karlos Vemola
+ USA;Welterweight Bout;Jake Shields
+ USA;Light Heavyweight Bout;Matt Hamill
+ USA;Heavyweight Bout;Jon Madsen
+ United Kingdom;Welterweight Bout;Mike Pyle
+ United Kingdom;Welterweight Bout;Carlos Condit
+ United Kingdom;Lightweight Bout;Paul Sass
+ United Kingdom;Welterweight Bout;Claude Patrick
+ United Kingdom;Heavyweight Bout;
+ United Kingdom;Heavyweight Bout;Rob Broughton
+ United Kingdom;Light Heavyweight Bout;Fabio Maldonado
+ United Kingdom;Lightweight Bout;Spencer Fisher
+ USA;Lightweight Bout;Thiago Tavares
+ USA;Lightweight Bout;Sean Sherk
+ USA;Heavyweight Bout;Sean McCorkle
+ USA;Welterweight Bout;TJ Grant
+ USA;Middleweight Bout;Rich Attonito
+ USA;Middleweight Bout;Dan Miller
+ USA;Heavyweight Bout;Randy Couture
+ USA;Welterweight Bout;Greg Soto
+ USA;Welterweight Bout;Jon Fitch
+ USA;Welterweight Bout;Matt Hughes
+ USA;Light Heavyweight Bout;Tim Boetsch
+ USA;Middleweight Bout;Rob Kimmons
+ USA;UFC Heavyweight Title Bout;Brock Lesnar
+ USA;Light Heavyweight Bout;Ricardo Romero
+ USA;Middleweight Bout;Kendall Grove
+ USA;Middleweight Bout;Gerald Harris
+ USA;Ultimate Fighter 11 Middleweight Tournament Title Bout;Court McGee
+ USA;Lightweight Bout;John Gunderson
+ USA;Middleweight Bout;Kyle Noke
+ Canada;Lightweight Bout;Evan Dunham
+ Canada;Welterweight Bout;Martin Kampmann
+ Canada;Heavyweight Bout;Mirko Filipovic
+ Canada;Middleweight Bout;Mario Miranda
+ Canada;Heavyweight Bout;Ben Rothwell
+ Canada;Welterweight Bout;Carlos Condit
+ Canada;Lightweight Bout;Matt Wiman
+ Canada;Light Heavyweight Bout;Rich Franklin
+ Canada;Welterweight Bout;James Wilks
+ Canada;Welterweight Bout;Mike Pyle
+ USA;Lightweight Bout;Aaron Riley
+ USA;Middleweight Bout;Ryan Jensen
+ Canada;Welterweight Bout;Marcus Davis
+ Canada;Middleweight Bout;Joe Doerksen
+ Canada;Welterweight Bout;Josh Koscheck
+ Canada;Middleweight Bout;Alan Belcher
+ Canada;Lightweight Bout;Jeremy Stephens
+ Canada;Heavyweight Bout;Matt Mitrione
+ Canada;Middleweight Bout;John Salter
+ Canada;Welterweight Bout;Mike Guymon
+ Canada;UFC Light Heavyweight Title Bout;Mauricio Rua
+ USA;Lightweight Bout;Kenny Florian
+ USA;Lightweight Bout;Andre Winner
+ USA;Welterweight Bout;Ricardo Almeida
+ USA;Lightweight Bout;Kurt Pellegrino
+ USA;UFC Interim Heavyweight Title Bout;Shane Carwin
+ USA;Light Heavyweight Bout;Jared Hamman
+ USA;Middleweight Bout;Alessio Sakara
+ USA;Light Heavyweight Bout;Vladimir Matyushenko
+ USA;Lightweight Bout;Darren Elkins
+ USA;Light Heavyweight Bout;Jason Brilz
+ Australia;Welterweight Bout;Chris Lytle
+ Australia;Light Heavyweight Bout;Krzysztof Soszynski
+ Australia;Middleweight Bout;CB Dollaway
+ Australia;Heavyweight Bout;Cain Velasquez
+ Australia;Heavyweight Bout;Mirko Filipovic
+ Australia;Lightweight Bout;George Sotiropoulos
+ Australia;Middleweight Bout;Wanderlei Silva
+ USA;Welterweight Bout;Matt Serra
+ USA;Light Heavyweight Bout;Randy Couture
+ USA;Welterweight Bout;Paulo Thiago
+ USA;Lightweight Bout;Rob Emerson
+ USA;Heavyweight Bout;Chris Tuchscherer
+ USA;Heavyweight Bout;Joey Beltran
+ USA;Welterweight Bout;Paul Daley
+ USA;Catch Weight Bout;Alan Belcher
+ USA;UFC Lightweight Title Bout;BJ Penn
+ USA;Light Heavyweight Bout;Brian Stann
+ USA;Lightweight Bout;Frankie Edgar
+ USA;Heavyweight Bout;James McSweeney
+ USA;Catch Weight Bout;Kevin Ferguson
+ USA;Ultimate Fighter 10 Heavyweight Tournament Title Bout;Roy Nelson
+ United Kingdom;Light Heavyweight Bout;Randy Couture
+ United Kingdom;Welterweight Bout;Nick Osipczak
+ United Kingdom;Welterweight Bout;Matt Brown
+ United Kingdom;Lightweight Bout;Ross Pearson
+ United Kingdom;Lightweight Bout;Dennis Siver
+ United Kingdom;Lightweight Bout;Andre Winner
+ USA;UFC Light Heavyweight Title Bout;Lyoto Machida
+ USA;Lightweight Bout;Joe Stevenson
+ USA;Lightweight Bout;Tyson Griffin
+ USA;Catch Weight Bout;Vitor Belfort
+ USA;Middleweight Bout;Tomasz Drwal
+ USA;Light Heavyweight Bout;Eliot Marshall
+ USA;Middleweight Bout;Nate Quarry
+ USA;Light Heavyweight Bout;Thiago Silva
+ USA;Heavyweight Bout;Antonio Rodrigo Nogueira
+ USA;Middleweight Bout;Jake Rosholt
+ USA;Light Heavyweight Bout;Anderson Silva
+ USA;Middleweight Bout;Ricardo Almeida
+ USA;Welterweight Bout;Jesse Lennox
+ USA;Light Heavyweight Bout;Mark Coleman
+ USA;Middleweight Bout;Yoshihiro Akiyama
+ USA;Lightweight Bout;Shannon Gugerty
+ USA;Ultimate Fighter 9 Lightweight Tournament Title Bout;Ross Pearson
+ USA;Light Heavyweight Bout;Tomasz Drwal
+ USA;Welterweight Bout;Brad Blackburn
+ USA;Welterweight Bout;Nick Osipczak
+ USA;Lightweight Bout;Jason Dent
+ USA;Ultimate Fighter 9 Welterweight Tournament Title Bout;James Wilks
+ Germany;Heavyweight Bout;Mirko Filipovic
+ Germany;Lightweight Bout;Spencer Fisher
+ Germany;Catch Weight Bout;Rich Franklin
+ Germany;Welterweight Bout;Dan Hardy
+ Germany;Welterweight Bout;Mike Swick
+ Germany;Lightweight Bout;Terry Etim
+ Germany;Heavyweight Bout;Cain Velasquez
+ Germany;Lightweight Bout;Paul Kelly
+ Germany;Welterweight Bout;John Hathaway
+ Germany;Welterweight Bout;Paul Taylor
+ Germany;Heavyweight Bout;Stefan Struve
+ USA;Welterweight Bout;Brock Larson
+ USA;Heavyweight Bout;Tim Hague
+ USA;Lightweight Bout;Kyle Bradley
+ USA;Middleweight Bout;Drew McFedries
+ USA;Light Heavyweight Bout;Krzysztof Soszynski
+ USA;Welterweight Bout;Yoshiyuki Yoshida
+ USA;Lightweight Bout;George Roop
+ Canada;Light Heavyweight Bout;Luiz Cane
+ Canada;Middleweight Bout;Denis Kang
+ Canada;Middleweight Bout;Nate Quarry
+ Canada;Light Heavyweight Bout;Mauricio Rua
+ Canada;UFC Middleweight Title Bout;Anderson Silva
+ Canada;Middleweight Bout;Ed Herman
+ Canada;Welterweight Bout;TJ Grant
+ Canada;Light Heavyweight Bout;Eliot Marshall
+ USA;Middleweight Bout;Tim Credeur
+ USA;Welterweight Bout;Tamdan McCrory
+ USA;Heavyweight Bout;Shane Carwin
+ USA;Lightweight Bout;Shane Nelson
+ United Kingdom;Middleweight Bout;Demian Maia
+ United Kingdom;Lightweight Bout;Diego Sanchez
+ United Kingdom;Welterweight Bout;Paulo Thiago
+ United Kingdom;Middleweight Bout;Nate Marquardt
+ United Kingdom;Heavyweight Bout;Junior Dos Santos
+ United Kingdom;Heavyweight Bout;Mike Ciesnolevicz
+ United Kingdom;Welterweight Bout;Paul Kelly
+ USA;Lightweight Bout;Matt Veach
+ USA;Lightweight Bout;Josh Neer
+ USA;Light Heavyweight Bout;Jake O'Brien
+ USA;Welterweight Bout;Dan Cramer
+ Ireland;Welterweight Bout;Marcus Davis
+ Ireland;Welterweight Bout;John Hathaway
+ Ireland;Light Heavyweight Bout;Dan Henderson
+ Ireland;Light Heavyweight Bout;Mauricio Rua
+ Ireland;Light Heavyweight Bout;Eric Schafer
+ Ireland;Welterweight Bout;Martin Kampmann
+ Ireland;Middleweight Bout;Rousimar Palhares
+ Ireland;Middleweight Bout;Alan Belcher
+ Ireland;Light Heavyweight Bout;Tomasz Drwal
+ Ireland;Lightweight Bout;Dennis Siver
+ USA;UFC Light Heavyweight Title Bout;Rashad Evans
+ USA;Heavyweight Bout;Antoni Hardonk
+ USA;UFC Interim Heavyweight Title Bout;Frank Mir
+ USA;Middleweight Bout;Wilson Gouveia
+ USA;Lightweight Bout;Junie Browning
+ USA;Ultimate Fighter 8 Lightweight Tournament Title Bout;Efrain Escudero
+ USA;Ultimate Fighter 8 Light Heavyweight Tournament Title Bout;Ryan Bader
+ USA;Lightweight Bout;Rolando Delgado
+ USA;Light Heavyweight Bout;Steve Cantwell
+ USA;Welterweight Bout;Steve Bruno
+ USA;Welterweight Bout;Luigi Fioravanti
+ USA;Lightweight Bout;Dale Hartt
+ USA;Heavyweight Bout;Justin McCully
+ USA;Welterweight Bout;Dustin Hazelett
+ USA;Lightweight Bout;Spencer Fisher
+ USA;Welterweight Bout;Pete Sell
+ USA;Lightweight Bout;Hermes Franca
+ United Kingdom;Light Heavyweight Bout;Luiz Cane
+ United Kingdom;Heavyweight Bout;Shane Carwin
+ United Kingdom;Welterweight Bout;Chris Lytle
+ United Kingdom;Welterweight Bout;Marcus Davis
+ United Kingdom;Lightweight Bout;David Bielkheden
+ United Kingdom;Light Heavyweight Bout;Keith Jardine
+ United Kingdom;Lightweight Bout;Per Eklund
+ United Kingdom;Lightweight Bout;Jim Miller
+ USA;Light Heavyweight Bout;Eric Schafer
+ USA;Middleweight Bout;Jason MacDonald
+ USA;Light Heavyweight Bout;Rich Franklin
+ USA;Welterweight Bout;Ryo Chonan
+ USA;Heavyweight Bout;Brock Lesnar
+ USA;Welterweight Bout;Chris Wilson
+ USA;Welterweight Bout;Rory Markham
+ USA;Middleweight Bout;Nate Loughran
+ USA;Welterweight Bout;Kevin Burns
+ USA;Middleweight Bout;Patrick Cote
+ USA;UFC Light Heavyweight Title Bout;Forrest Griffin
+ USA;Lightweight Bout;Justin Buchholz
+ USA;Middleweight Bout;Matthew Riddle
+ USA;Ultimate Fighter 7 Middleweight Tournament Title Bout;Amir Sadollah
+ USA;Middleweight Bout;Dean Lister
+ United Kingdom;Middleweight Bout;Martin Kampmann
+ United Kingdom;Welterweight Bout;Mike Swick
+ United Kingdom;Heavyweight Bout;Fabricio Werdum
+ United Kingdom;Middleweight Bout;Thales Leites
+ United Kingdom;Welterweight Bout;Kevin Burns
+ United Kingdom;Welterweight Bout;Paul Taylor
+ United Kingdom;Heavyweight Bout;Antoni Hardonk
+ USA;Lightweight Bout;Rich Clementi
+ USA;Light Heavyweight Bout;Wanderlei Silva
+ USA;Light Heavyweight Bout;Rameau Thierry Sokoudjou
+ USA;Light Heavyweight Bout;Goran Reljic
+ Canada;Middleweight Bout;Jason Day
+ Canada;Middleweight Bout;Rich Franklin
+ Canada;Middleweight Bout;Demian Maia
+ Canada;Heavyweight Bout;Cain Velasquez
+ Canada;Lightweight Bout;Rich Clementi
+ Canada;Welterweight Bout;Jonathan Goulet
+ USA;Lightweight Bout;Marcus Aurelio
+ USA;Light Heavyweight Bout;James Irvin
+ USA;Lightweight Bout;Manvel Gamburyan
+ USA;Welterweight Bout;George Sotiropoulos
+ USA;Heavyweight Bout;Heath Herring
+ USA;Lightweight Bout;Jorge Gurgel
+ USA;UFC Interim Heavyweight Title Bout;Antonio Rodrigo Nogueira
+ USA;Middleweight Bout;Marvin Eastman
+ USA;Lightweight Bout;Corey Hill
+ United Kingdom;UFC Lightweight Title Bout;BJ Penn
+ United Kingdom;Light Heavyweight Bout;Alessio Sakara
+ United Kingdom;Middleweight Bout;Jorge Rivera
+ United Kingdom;Light Heavyweight Bout;Wilson Gouveia
+ United Kingdom;Lightweight Bout;Sam Stout
+ USA;Light Heavyweight Bout;Chuck Liddell
+ USA;UFC Interim Welterweight Title Bout;Georges St-Pierre
+ USA;Heavyweight Bout;Eddie Sanchez
+ USA;Welterweight Bout;Roman Mitichyan
+ USA;Welterweight Bout;War Machine
+ USA;Welterweight Bout;Troy Mandaloniz
+ USA;Welterweight Bout;Matt Arroyo
+ USA;Ultimate Fighter 6 Welterweight Tournament Title Bout;Mac Danzig
+ USA;Lightweight Bout;Roger Huerta
+ USA;Welterweight Bout;Jonathan Goulet
+ USA;Welterweight Bout;Karo Parisyan
+ USA;Welterweight Bout;Akihiro Gono
+ USA;Heavyweight Bout;Tim Sylvia
+ USA;Welterweight Bout;Joshua Burkman
+ USA;Lightweight Bout;Alvin Robinson
+ USA;Lightweight Bout;Matt Grice
+ USA;Welterweight Bout;Rich Clementi
+ USA;Heavyweight Bout;Christian Wellisch
+ USA;Light Heavyweight Bout;Keith Jardine
+ USA;Welterweight Bout;Luke Cummo
+ United Kingdom;Light Heavyweight Bout;Houston Alexander
+ United Kingdom;Light Heavyweight Bout;Thiago Silva
+ United Kingdom;Heavyweight Bout;Cheick Kongo
+ United Kingdom;Light Heavyweight Bout;Michael Bisping
+ United Kingdom;Lightweight Bout;Gleison Tibau
+ United Kingdom;Welterweight Bout;Jess Liaudin
+ United Kingdom;UFC Light Heavyweight Title Bout;Quinton Jackson
+ USA;Light Heavyweight Bout;Renato Sobral
+ USA;UFC Heavyweight Title Bout;Randy Couture
+ USA;Welterweight Bout;Georges St-Pierre
+ USA;UFC Lightweight Title Bout;Sean Sherk
+ USA;Lightweight Bout;Leonard Garcia
+ USA;Ultimate Fighter 5 Lightweight Tournament Title Bout;Nate Diaz
+ USA;Lightweight Bout;BJ Penn
+ United Kingdom;Middleweight Bout;Ed Herman
+ United Kingdom;Heavyweight Bout;Eddie Sanchez
+ United Kingdom;Lightweight Bout;Tyson Griffin
+ United Kingdom;Light Heavyweight Bout;Forrest Griffin
+ United Kingdom;Welterweight Bout;Dustin Hazelett
+ United Kingdom;Middleweight Bout;Jason MacDonald
+ United Kingdom;Middleweight Bout;Rich Franklin
+ USA;Welterweight Bout;Forrest Petz
+ USA;Lightweight Bout;Nate Mohr
+ USA;Middleweight Bout;Terry Martin
+ USA;UFC Light Heavyweight Title Bout;Quinton Jackson
+ USA;Lightweight Bout;Din Thomas
+ USA;Light Heavyweight Bout;Alan Belcher
+ USA;Middleweight Bout;Kalib Starnes
+ USA;Light Heavyweight Bout;Houston Alexander
+ USA;Light Heavyweight Bout;Wilson Gouveia
+ United Kingdom;Light Heavyweight Bout;Lyoto Machida
+ United Kingdom;Heavyweight Bout;Andrei Arlovski
+ United Kingdom;Lightweight Bout;Junior Assuncao
+ United Kingdom;Heavyweight Bout;Gabriel Gonzaga
+ USA;UFC Welterweight Title Bout;Matt Serra
+ USA;Welterweight Bout;Marcus Davis
+ USA;Welterweight Bout;Kuniyoshi Hironaka
+ USA;Welterweight Bout;Drew Fickett
+ USA;Middleweight Bout;Rich Franklin
+ USA;Middleweight Bout;Martin Kampmann
+ USA;Light Heavyweight Bout;Jason Lambert
+ USA;Heavyweight Bout;Mirko Filipovic
+ USA;Lightweight Bout;Dustin Hazelett
+ USA;Heavyweight Bout;Jake O'Brien
+ USA;Light Heavyweight Bout;Michael Bisping
+ USA;UFC Light Heavyweight Title Bout;Chuck Liddell
+ USA;Light Heavyweight Bout;David Heath
+ USA;Middleweight Bout;Logan Clark
+ USA;Heavyweight Bout;Brandon Vera
+ USA;Light Heavyweight Bout;Drew McFedries
+ USA;UFC Heavyweight Title Bout;Tim Sylvia
+ USA;Ultimate Fighter 4 Middleweight Tournament Title Bout;Travis Lutter
+ USA;Welterweight Bout;Pete Spratt
+ USA;Middleweight Bout;Scott Smith
+ USA;Ultimate Fighter 4 Welterweight Tournament Title Bout;Matt Serra
+ USA;Middleweight Bout;Charles McCarthy
+ USA;Heavyweight Bout;Carmelo Marrero
+ USA;Welterweight Bout;Tony DeSouza
+ USA;Middleweight Bout;Rory Singer
+ USA;UFC Welterweight Title Bout;Matt Hughes
+ USA;Middleweight Bout;Mike Swick
+ USA;Welterweight Bout;Joe Riggs
+ USA;Welterweight Bout;Anthony Torres
+ USA;Heavyweight Bout;Jeff Monson
+ USA;Catch Weight Bout;Hermes Franca
+ USA;Light Heavyweight Bout;Rob MacDonald
+ USA;Lightweight Bout;Mark Hominick
+ USA;Middleweight Bout;Jorge Santiago
+ USA;Ultimate Fighter 3 Light Heavyweight Tournament Title Bout;Michael Bisping
+ USA;Ultimate Fighter 3 Middleweight Tournament Title Bout;Kendall Grove
+ USA;Middleweight Bout;Luigi Fioravanti
+ USA;Light Heavyweight Bout;Mike Nickels
+ USA;Catch Weight Bout;Matt Hughes
+ USA;Light Heavyweight Bout;Dean Lister
+ USA;Middleweight Bout;Jeremy Horn
+ USA;Middleweight Bout;Evan Tanner
+ USA;Welterweight Bout;Sean Sherk
+ USA;Middleweight Bout;David Terrell
+ USA;Heavyweight Bout;Dan Christison
+ USA;UFC Middleweight Title Bout;Rich Franklin
+ USA;Heavyweight Bout;Tom Murphy
+ USA;Light Heavyweight Bout;Alessio Sakara
+ USA;Heavyweight Bout;Paul Buentello
+ USA;Heavyweight Bout;Marcio Cruz
+ USA;Welterweight Bout;Spencer Fisher
+ USA;Welterweight Bout;Jason Von Flue
+ USA;Light Heavyweight Bout;Sam Hoger
+ USA;Welterweight Bout;Nick Thompson
+ USA;Ultimate Fighter 2 Heavyweight Tournament Title Bout;Rashad Evans
+ USA;Welterweight Bout;Kenny Florian
+ USA;Ultimate Fighter 2 Welterweight Tournament Title Bout;Joe Stevenson
+ USA;Heavyweight Bout;Keith Jardine
+ USA;Welterweight Bout;Melvin Guillard
+ USA;UFC Heavyweight Title Bout;Andrei Arlovski
+ USA;Heavyweight Bout;Branden Lee Hinkle
+ USA;Middleweight Bout;Jon Fitch
+ USA;Middleweight Bout;David Loiseau
+ USA;Middleweight Bout;Trevor Prangley
+ USA;Middleweight Bout;Matt Lindland
+ USA;UFC Interim Heavyweight Title Bout;Andrei Arlovski
+ USA;Middleweight Bout;Joe Doerksen
+ USA;Heavyweight Bout;Mike van Arsdale
+ USA;Middleweight Bout;Ivan Salaverry
+ USA;Ultimate Fighter 1 Light Heavyweight Tournament Title Bout;Forrest Griffin
+ USA;Ultimate Fighter 1 Middleweight Tournament Title Bout;Diego Sanchez
+ USA;Middleweight Bout;Josh Koscheck
+ USA;Welterweight Bout;Alex Karalexis
+ USA;UFC Middleweight Title Bout;Evan Tanner
+ USA;Middleweight Bout;Pete Sell
+ USA;Heavyweight Bout;Mike Kyle
+ USA;Welterweight Bout;Frank Trigg
+ USA;Light Heavyweight Bout;Travis Lutter
+ USA;Heavyweight Bout;Justin Eilers
+ USA;UFC Light Heavyweight Title Bout;Randy Couture
+ USA;Lightweight Bout;Matt Serra
+ USA;UFC Heavyweight Title Bout;Frank Mir
+ USA;Heavyweight Bout;Ken Shamrock
+ USA;Lightweight Bout;Genki Sudo
+ USA;Heavyweight Bout;Jonathan Wiezorek
+ USA;UFC Light Heavyweight Title Bout;Vitor Belfort
+ USA;Welterweight Bout;Renato Verissimo
+ USA;Middleweight Bout;Lee Murray
+ USA;UFC Welterweight Title Bout;BJ Penn
+ USA;Heavyweight Bout;Wesley Correira
+ USA;Heavyweight Bout;Pedro Rizzo
+ USA;Middleweight Bout;Keith Rockel
+ USA;Middleweight Bout;Falaniko Vitale
+ USA;UFC Interim Light Heavyweight Title Bout;Randy Couture
+ USA;Heavyweight Bout;Kimo Leopoldo
+ USA;Light Heavyweight Bout;Vitor Belfort
+ USA;Welterweight Bout;Dave Strasser
+ USA;Lightweight Bout;Duane Ludwig
+ USA;Heavyweight Bout;Vladimir Matyushenko
+ USA;Heavyweight Bout;Gan McGee
+ USA;Welterweight Bout;Carlos Newton
+ USA;Middleweight Bout;Phillip Miller
+ USA;UFC Light Heavyweight Title Bout;Tito Ortiz
+ USA;Lightweight Bout;Caol Uno
+ USA;UFC Heavyweight Title Bout;Ricco Rodriguez
+ USA;Middleweight Bout;Phil Baroni
+ United Kingdom;Heavyweight Bout;Ian Freeman
+ United Kingdom;Light Heavyweight Bout;Renato Sobral
+ United Kingdom;UFC Welterweight Title Bout;Matt Hughes
+ United Kingdom;Light Heavyweight Bout;Phillip Miller
+ United Kingdom;Middleweight Bout;Mark Weir
+ United Kingdom;Lightweight Bout;Genki Sudo
+ United Kingdom;Light Heavyweight Bout;Evan Tanner
+ USA;Middleweight Bout;Tony Fryklund
+ USA;Welterweight Bout;Benji Radach
+ USA;UFC Middleweight Title Bout;Murilo Bustamante
+ USA;Heavyweight Bout;Ricco Rodriguez
+ USA;Light Heavyweight Bout;Evan Tanner
+ USA;UFC Heavyweight Title Bout;Josh Barnett
+ USA;Middleweight Bout;Eugene Jackson
+ USA;Welterweight Bout;Gil Castillo
+ USA;UFC Lightweight Title Bout;Jens Pulver
+ USA;Light Heavyweight Bout;Kevin Randleman
+ USA;Middleweight Bout;Andrei Semenov
+ USA;UFC Middleweight Title Bout;Dave Menne
+ USA;Welterweight Bout;Jutaro Nakao
+ USA;Lightweight Bout;Tony DeSouza
+ USA;Welterweight Bout;Pat Miletich
+ USA;Light Heavyweight Bout;Matt Lindland
+ USA;UFC Welterweight Title Bout;Carlos Newton
+ USA;Heavyweight Bout;Semmy Schilt
+ USA;Welterweight Bout;Shonie Carter
+ USA;Welterweight Bout;Fabiano Iha
+ USA;Middleweight Bout;Elvis Sinosic
+ USA;Super Heavyweight Bout;Josh Barnett
+ USA;Welterweight Bout;Ben Earwood
+ USA;Lightweight Bout;Jens Pulver
+ USA;Heavyweight Bout;Renato Sobral
+ USA;Middleweight Bout;Mark Hughes
+ USA;Middleweight Bout;Yuki Kondo
+ USA;Heavyweight Bout;Maurice Smith
+ USA;Heavyweight Bout;Ian Freeman
+ USA;UFC Welterweight Title Bout;Pat Miletich
+ USA;Middleweight Bout;Tyrone Roberts
+ USA;Middleweight Bout;Amaury Bitetti
+ USA;UFC Heavyweight Title Bout;Kevin Randleman
+ USA;Lightweight Bout;Shonie Carter
+ USA;Lightweight Bout;Dave Menne
+ USA;Heavyweight Bout;Scott Adams
+ USA;Heavyweight Bout;Tedd Williams
+ USA;Lightweight Bout;Bob Cook
+ USA;Middleweight Bout;Lance Gibson
+ USA;Middleweight Bout;Chuck Liddell
+ USA;Heavyweight Bout;Brad Kohler
+ USA;Middleweight Bout;John Lewis
+ USA;Heavyweight Bout;Jeremy Horn
+ USA;UFC Light Heavyweight Title Bout;Frank Shamrock
+ USA;Lightweight Bout;Matt Hughes
+ USA;Heavyweight Bout;Tsuyoshi Kohsaka
+ USA;Heavyweight Bout;Andre Roberts
+ USA;Middleweight Bout;Paul Jones
+ USA;Heavyweight Bout;Travis Fulton
+ USA;Lightweight Bout;Laverne Clark
+ USA;Heavyweight Bout;Pete Williams
+ USA;UFC Heavyweight Title Bout;Bas Rutten
+ USA;Heavyweight Bout;Ron Waterman
+ USA;Lightweight Bout;Marcelo Mello
+ USA;Middleweight Bout;Tito Ortiz
+ USA;Heavyweight Bout;Kevin Randleman
+ USA;Heavyweight Bout;Sione Latu
+ USA;Heavyweight Bout;Gary Goodridge
+ USA;Heavyweight Bout;Bas Rutten
+ USA;Lightweight Bout;Mikey Burnett
+ USA;Heavyweight Bout;David Abbott
+ USA;UFC 17 Middleweight Tournament Title Bout;Dan Henderson
+ USA;Middleweight Bout;Carlos Newton
+ USA;UFC 16 Lightweight Tournament Title Bout;Pat Miletich
+ USA;Lightweight Bout;Pat Miletich
+ USA;Middleweight Bout;Jerry Bohlander
+ Japan;UFC Light Heavyweight Title Bout;Frank Shamrock
+ Japan;UFC Heavyweight Title Bout;Randy Couture
+ Japan;Heavyweight Bout;David Abbott
+ Japan;Heavyweight Bout;Tra Telligman
+ Japan;Heavyweight Bout;
+ Japan;Heavyweight Bout;Vitor Belfort
+ Japan;Ultimate Japan Heavyweight Tournament Title Bout;Kazushi Sakuraba
+ USA;UFC Heavyweight Title Bout;Maurice Smith
+ USA;Heavyweight Bout;Alex Hunter
+ USA;UFC 15 Heavyweight Tournament Title Bout;Mark Kerr
+ USA;Heavyweight Bout;Dwayne Cason
+ USA;Heavyweight Bout;Dave Beneteau
+ USA;Heavyweight Bout;Mark Kerr
+ USA;UFC 14 Heavyweight Tournament Title Bout;Mark Kerr
+ USA;Lightweight Bout;Kevin Jackson
+ USA;UFC 14 Middleweight Tournament Title Bout;Kevin Jackson
+ USA;Lightweight Bout;Joe Moreira
+ USA;Heavyweight Bout;Dan Bobish
+ USA;Lightweight Bout;Tony Fryklund
+ USA;Heavyweight Bout;Vitor Belfort
+ USA;UFC 13 Lightweight Tournament Title Bout;Guy Mezger
+ USA;Lightweight Bout;Guy Mezger
+ USA;Lightweight Bout;Enson Inoue
+ USA;Heavyweight Bout;Steven Graham
+ USA;Lightweight Bout;Jack Nilson
+ USA;UFC 13 Heavyweight Tournament Title Bout;Randy Couture
+ USA;Lightweight Bout;Tito Ortiz
+ USA;UFC Heavyweight Title Bout;Mark Coleman
+ USA;Lightweight Bout;Jerry Bohlander
+ USA;Heavyweight Bout;Scott Ferrozzo
+ USA;Lightweight Bout;Yoshiki Takahashi
+ USA;Open Weight Bout;David Abbott
+ USA;Open Weight Bout;Kimo Leopoldo
+ USA;Ultimate Ultimate '96 Tournament Title Bout;Don Frye
+ USA;Open Weight Bout;Don Frye
+ USA;Open Weight Bout;Ken Shamrock
+ USA;Open Weight Bout;Scott Ferrozzo
+ USA;Open Weight Bout;Mark Coleman
+ USA;Open Weight Bout;Brian Johnston
+ USA;Open Weight Bout;Jerry Bohlander
+ USA;UFC 10 Tournament Title Bout;Mark Coleman
+ USA;Open Weight Bout;Gary Goodridge
+ USA;Open Weight Bout;Geza Kalman
+ USA;UFC Superfight Championship Bout;Dan Severn
+ USA;Open Weight Bout;Steve Nelmark
+ USA;Open Weight Bout;Mark Hall
+ USA;Open Weight Bout;Cal Worsham
+ USA;Open Weight Bout;Rafael Carino
+ USA;Open Weight Bout;Mark Schultz
+ USA;Open Weight Bout;Dan Severn
+ USA;Open Weight Bout;Oleg Taktarov
+ USA;Open Weight Bout;Marco Ruas
+ USA;Ultimate Ultimate '95 Tournament Title Bout;Dan Severn
+ USA;UFC 7 Tournament Title Bout;Marco Ruas
+ USA;UFC Superfight Championship Bout;
+ USA;Open Weight Bout;Paul Varelans
+ USA;Open Weight Bout;Remco Pardoel
+ USA;Open Weight Bout;Scott Bessac
+ USA;UFC 6 Tournament Title Bout;Oleg Taktarov
+ USA;UFC Superfight Championship Bout;Ken Shamrock
+ USA;Open Weight Bout;Patrick Smith
+ USA;Open Weight Bout;Todd Medina
+ USA;UFC 5 Tournament Title Bout;Dan Severn
+ USA;Open Weight Bout;Dave Beneteau
+ USA;Open Weight Bout;Jon Hess
+ USA;Open Weight Bout;Guy Mezger
+ USA;UFC 4 Tournament Title Bout;Royce Gracie
+ USA;Open Weight Bout;Steve Jennum
+ USA;Open Weight Bout;Royce Gracie
+ USA;Open Weight Bout;Keith Hackney
+ USA;UFC 3 Tournament Title Bout;Steve Jennum
+ USA;Open Weight Bout;Harold Howard
+ USA;UFC 2 Tournament Title Bout;Royce Gracie
+ USA;Open Weight Bout;Johnny Rhodes
+ USA;Open Weight Bout;Frank Hamaker
+ USA;Open Weight Bout;Jason DeLucia
+ USA;Open Weight Bout;Orlando Wiet
+ USA;Open Weight Bout;Scott Morris

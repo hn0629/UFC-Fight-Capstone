@@ -1,23 +1,21 @@
+from pathlib import Path
 import sqlite3
 
-from config import DB_PATH
+DB = Path(__file__).resolve().parent / "data" / "ufc.db"
 
-
-def list_tables() -> list[str]:
-    conn = sqlite3.connect(DB_PATH)
+def main():
+    conn = sqlite3.connect(DB)
     try:
-        cursor = conn.cursor()
-        cursor.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name;")
-        return [row[0] for row in cursor.fetchall()]
+        cur = conn.cursor()
+        cur.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name;")
+        rows = [r[0] for r in cur.fetchall()]
+        if not rows:
+            print("No tables found.")
+        else:
+            for name in rows:
+                print(name)
     finally:
         conn.close()
 
-
 if __name__ == "__main__":
-    tables = list_tables()
-    if not tables:
-        print("No tables found.")
-    else:
-        print("Tables in ufc.db:")
-        for table in tables:
-            print(f"- {table}")
+    main()

@@ -1,28 +1,19 @@
-import logging
+from pathlib import Path
 import sqlite3
-
 import pandas as pd
 
-from config import SILVER_DIR
-from scripts.utils import get_sqlite_connection, ensure_directories, bootstrap_logging
+ROOT = Path(__file__).resolve().parents[1]
+SILVER = ROOT / "data" / "silver"
+DB = ROOT / "data" / "ufc.db"
 
-
-LOGGER = logging.getLogger(__name__)
-
-
-def load_silver_to_sqlite(table_name: str = "ufc_silver") -> None:
-    ensure_directories()
-    silver_path = SILVER_DIR / "ufc_silver.csv"
-    df = pd.read_csv(silver_path)
-
-    conn = get_sqlite_connection()
+def main():
+    conn = sqlite3.connect(DB)
     try:
-        df.to_sql(table_name, conn, if_exists="replace", index=False)
-        LOGGER.info("Loaded %s records into SQLite table %s", len(df), table_name)
+        silver = pd.read_csv(SILVER / "ufc_silver.csv")
+        silver.to_sql("ufc_silver", conn, if_exists="replace", index=False)
+        print(DB)
     finally:
         conn.close()
 
-
 if __name__ == "__main__":
-    bootstrap_logging()
-    load_silver_to_sqlite()
+    main()

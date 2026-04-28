@@ -9,57 +9,50 @@ PROJECT_DIR = Path(r"C:\Users\harry\UFC Project")
 if str(PROJECT_DIR) not in sys.path:
     sys.path.append(str(PROJECT_DIR))
 
-from scripts.ingest import ingest_source_csv
-from scripts.transform import transform_raw_to_silver
-from scripts.load import load_silver_to_sqlite
-from scripts.build_gold import build_gold_layer
-from scripts.validate import validate_pipeline_outputs
-
+from scripts.ingest import main as ingest_main
+from scripts.transform import main as transform_main
+from scripts.build_gold import main as build_gold_main
+from scripts.load import main as load_main
+from scripts.validate import main as validate_main
 
 default_args = {
     "owner": "harry",
     "depends_on_past": False,
 }
 
-
-def run_ingest():
-    source_file = PROJECT_DIR / "UFC-Fight-Data-1993-2021-1.csv"
-    ingest_source_csv(source_file)
-
-
 with DAG(
     dag_id="ufc_pipeline_dag",
     default_args=default_args,
     description="UFC Fight Data Pipeline",
     start_date=datetime(2024, 1, 1),
-    schedule_interval=None,
+    schedule=None,
     catchup=False,
     tags=["ufc", "etl", "sqlite"],
 ) as dag:
 
     ingest_task = PythonOperator(
         task_id="ingest_raw_data",
-        python_callable=run_ingest,
+        python_callable=ingest_main,
     )
 
     transform_task = PythonOperator(
         task_id="transform_to_silver",
-        python_callable=transform_raw_to_silver,
+        python_callable=transform_main,
+    )
+
+    build_gold_task = PythonOperator(
+        task_id="build_gold_layer",
+        python_callable=build_gold_main,
     )
 
     load_task = PythonOperator(
         task_id="load_to_sqlite",
-        python_callable=load_silver_to_sqlite,
-    )
-
-    gold_task = PythonOperator(
-        task_id="build_gold_layer",
-        python_callable=build_gold_layer,
+        python_callable=load_main,
     )
 
     validate_task = PythonOperator(
         task_id="validate_outputs",
-        python_callable=validate_pipeline_outputs,
+        python_callable=validate_main,
     )
 
-    ingest_task >> transform_task >> load_task >> gold_task >> validate_task
+    ingest_task >> transform_task >> build_gold_task >> load_task >> validate_task
