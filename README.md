@@ -1,5 +1,3 @@
-# UFC Fight Data Pipeline Project
-
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-D14836?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 End-to-end UFC data engineering capstone using Python, Apache Airflow, SQL, MongoDB, and data visualization to transform raw fight records into validated analytical outputs.
@@ -29,16 +27,24 @@ The visuals above show the data model, database design, MongoDB querying, and on
 - SQL schema design and database modeling.
 - Notebook-based analysis and visualizations.
 
-## Pipeline Flow
+## Airflow Pipeline
 
-The Airflow DAG runs these steps in order:
-1. Ingest raw data.
-2. Transform it into a cleaned dataset.
-3. Build a gold summary dataset.
-4. Load the silver layer into SQLite.
-5. Validate the final outputs.
+This project uses an Airflow DAG to orchestrate the local ETL workflow. The DAG ingests raw UFC data, transforms it, builds a gold summary layer, loads the curated data into SQLite, and validates the final results.
 
-The DAG was verified successfully with `airflow dags test ufc_pipeline_dag 2026-04-27`.
+The DAG code lives in `dags/ufc_pipeline_dag.py`.
+
+### How to Run
+
+Activate your virtual environment and test the DAG locally:
+
+```bash
+source .venv/bin/activate
+airflow dags test ufc_pipeline_dag 2026-04-27
+```
+
+### What It Produces
+
+When the pipeline runs locally, it creates generated CSV files in `output/`. The folder is kept in the repo with a `.gitkeep` file, while the generated files can remain untracked.
 
 ## Getting Started
 
@@ -53,7 +59,7 @@ airflow dags test ufc_pipeline_dag 2026-04-27
 
 ## Output Files
 
-Running the pipeline creates these files in `output/`:
+The pipeline can create these files in `output/` when it runs locally:
 
 - `output/raw_fights.csv`
 - `output/transformed_fights.csv`
@@ -103,3 +109,4 @@ UFC Fight Data Pipeline Project/
 - `queries/` contains SQL and MongoDB query files.
 - `docs/`, `images/`, and `presentations/` contain project deliverables.
 - Generated files in `output/` are created by the pipeline and should be treated as artifacts.
+'''
