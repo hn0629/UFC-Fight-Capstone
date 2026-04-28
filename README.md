@@ -1,3 +1,5 @@
+# UFC Fight Data Pipeline Project
+
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://www.python.org/) [![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-D14836?logo=apache-airflow&logoColor=white)](https://airflow.apache.org/) [![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 
 End-to-end UFC data engineering capstone using Python, Apache Airflow, SQL, MongoDB, and data visualization to transform raw fight records into validated analytical outputs.
@@ -8,15 +10,14 @@ This project ingests historical UFC fight data, cleans and transforms it, builds
 
 ## Project Demo
 
-![Schema Diagram](images/UML.jpg)
+A few visuals from the project are shown below to highlight the data model, database design, MongoDB querying, and analysis output.
 
-![Entity Relationship Diagram](images/EER.png)
-
-![MongoDB Query Example](images/mongodb-lookup-fighter-event.png)
-
-![Analysis Chart](images/chart-top-submissions.png)
-
-The visuals above show the data model, database design, MongoDB querying, and one of the analytical charts produced in the project.
+| Visual | Preview |
+|---|---|
+| Schema Diagram | ![Schema Diagram](images/UML.jpg) |
+| Entity Relationship Diagram | ![Entity Relationship Diagram](images/EER.png) |
+| MongoDB Query Example | ![MongoDB Query Example](images/mongodb-lookup-fighter-event.png) |
+| Analysis Chart | ![Analysis Chart](images/chart-top-submissions.png) |
 
 ## Highlights
 
@@ -109,4 +110,3 @@ UFC Fight Data Pipeline Project/
 - `queries/` contains SQL and MongoDB query files.
 - `docs/`, `images/`, and `presentations/` contain project deliverables.
 - Generated files in `output/` are created by the pipeline and should be treated as artifacts.
-'''
